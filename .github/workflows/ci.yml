@@ -1,0 +1,45 @@
+name: CI
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main, develop ]
+
+jobs:
+  build-test-publish:
+    runs-on: windows-latest
+
+    env:
+      DOTNET_SKIP_FIRST_TIME_EXPERIENCE: true
+      DOTNET_NOLOGO: true
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup .NET SDK
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: |
+            9.0.x
+
+      - name: Restore
+        run: dotnet restore OTST.sln
+
+      - name: Build
+        run: dotnet build OTST.sln --configuration Release --no-restore
+
+      - name: Test
+        run: dotnet test OTST.sln --configuration Release --no-build --logger trx
+
+      - name: Publish WPF app
+        run: dotnet publish OTST.App/OTST.App.csproj --configuration Release --runtime win-x64 --self-contained false --output build/publish
+
+      - name: Upload publish artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: OTST-wpf-win-x64
+          path: build/publish/**
+
+

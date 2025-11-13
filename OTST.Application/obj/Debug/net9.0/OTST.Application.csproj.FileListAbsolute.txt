@@ -1,0 +1,15 @@
+C:\GIT\OTST_dotNet\OTST.Application\bin\Debug\net9.0\OTST.Application.deps.json
+C:\GIT\OTST_dotNet\OTST.Application\bin\Debug\net9.0\OTST.Application.dll
+C:\GIT\OTST_dotNet\OTST.Application\bin\Debug\net9.0\OTST.Application.pdb
+C:\GIT\OTST_dotNet\OTST.Application\bin\Debug\net9.0\OTST.Domain.dll
+C:\GIT\OTST_dotNet\OTST.Application\bin\Debug\net9.0\OTST.Domain.pdb
+C:\GIT\OTST_dotNet\OTST.Application\obj\Debug\net9.0\OTST.Application.csproj.AssemblyReference.cache
+C:\GIT\OTST_dotNet\OTST.Application\obj\Debug\net9.0\OTST.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\OTST_dotNet\OTST.Application\obj\Debug\net9.0\OTST.Application.AssemblyInfoInputs.cache
+C:\GIT\OTST_dotNet\OTST.Application\obj\Debug\net9.0\OTST.Application.AssemblyInfo.cs
+C:\GIT\OTST_dotNet\OTST.Application\obj\Debug\net9.0\OTST.Application.csproj.CoreCompileInputs.cache
+C:\GIT\OTST_dotNet\OTST.Application\obj\Debug\net9.0\OTST.App.DEAA8C1B.Up2Date
+C:\GIT\OTST_dotNet\OTST.Application\obj\Debug\net9.0\OTST.Application.dll
+C:\GIT\OTST_dotNet\OTST.Application\obj\Debug\net9.0\refint\OTST.Application.dll
+C:\GIT\OTST_dotNet\OTST.Application\obj\Debug\net9.0\OTST.Application.pdb
+C:\GIT\OTST_dotNet\OTST.Application\obj\Debug\net9.0\ref\OTST.Application.dll

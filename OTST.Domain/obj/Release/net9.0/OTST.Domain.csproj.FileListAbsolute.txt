@@ -1,0 +1,11 @@
+C:\GIT\OTST_dotNet\OTST.Domain\bin\Release\net9.0\OTST.Domain.deps.json
+C:\GIT\OTST_dotNet\OTST.Domain\bin\Release\net9.0\OTST.Domain.dll
+C:\GIT\OTST_dotNet\OTST.Domain\bin\Release\net9.0\OTST.Domain.pdb
+C:\GIT\OTST_dotNet\OTST.Domain\obj\Release\net9.0\OTST.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\OTST_dotNet\OTST.Domain\obj\Release\net9.0\OTST.Domain.AssemblyInfoInputs.cache
+C:\GIT\OTST_dotNet\OTST.Domain\obj\Release\net9.0\OTST.Domain.AssemblyInfo.cs
+C:\GIT\OTST_dotNet\OTST.Domain\obj\Release\net9.0\OTST.Domain.csproj.CoreCompileInputs.cache
+C:\GIT\OTST_dotNet\OTST.Domain\obj\Release\net9.0\OTST.Domain.dll
+C:\GIT\OTST_dotNet\OTST.Domain\obj\Release\net9.0\refint\OTST.Domain.dll
+C:\GIT\OTST_dotNet\OTST.Domain\obj\Release\net9.0\OTST.Domain.pdb
+C:\GIT\OTST_dotNet\OTST.Domain\obj\Release\net9.0\ref\OTST.Domain.dll

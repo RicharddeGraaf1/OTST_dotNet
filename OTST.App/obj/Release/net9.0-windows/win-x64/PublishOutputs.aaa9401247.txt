@@ -1,0 +1,9 @@
+C:\GIT\OTST_dotNet\build\publish\OTST.App.exe
+C:\GIT\OTST_dotNet\build\publish\OTST.App.dll
+C:\GIT\OTST_dotNet\build\publish\OTST.App.deps.json
+C:\GIT\OTST_dotNet\build\publish\OTST.App.runtimeconfig.json
+C:\GIT\OTST_dotNet\build\publish\OTST.App.pdb
+C:\GIT\OTST_dotNet\build\publish\OTST.Application.dll
+C:\GIT\OTST_dotNet\build\publish\OTST.Domain.dll
+C:\GIT\OTST_dotNet\build\publish\OTST.Application.pdb
+C:\GIT\OTST_dotNet\build\publish\OTST.Domain.pdb

@@ -1,0 +1,15 @@
+C:\GIT\OTST_dotNet\OTST.Infrastructure\bin\Debug\net9.0\OTST.Infrastructure.deps.json
+C:\GIT\OTST_dotNet\OTST.Infrastructure\bin\Debug\net9.0\OTST.Infrastructure.dll
+C:\GIT\OTST_dotNet\OTST.Infrastructure\bin\Debug\net9.0\OTST.Infrastructure.pdb
+C:\GIT\OTST_dotNet\OTST.Infrastructure\bin\Debug\net9.0\OTST.Domain.dll
+C:\GIT\OTST_dotNet\OTST.Infrastructure\bin\Debug\net9.0\OTST.Domain.pdb
+C:\GIT\OTST_dotNet\OTST.Infrastructure\obj\Debug\net9.0\OTST.Infrastructure.csproj.AssemblyReference.cache
+C:\GIT\OTST_dotNet\OTST.Infrastructure\obj\Debug\net9.0\OTST.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\OTST_dotNet\OTST.Infrastructure\obj\Debug\net9.0\OTST.Infrastructure.AssemblyInfoInputs.cache
+C:\GIT\OTST_dotNet\OTST.Infrastructure\obj\Debug\net9.0\OTST.Infrastructure.AssemblyInfo.cs
+C:\GIT\OTST_dotNet\OTST.Infrastructure\obj\Debug\net9.0\OTST.Infrastructure.csproj.CoreCompileInputs.cache
+C:\GIT\OTST_dotNet\OTST.Infrastructure\obj\Debug\net9.0\OTST.Inf.B7247D61.Up2Date
+C:\GIT\OTST_dotNet\OTST.Infrastructure\obj\Debug\net9.0\OTST.Infrastructure.dll
+C:\GIT\OTST_dotNet\OTST.Infrastructure\obj\Debug\net9.0\refint\OTST.Infrastructure.dll
+C:\GIT\OTST_dotNet\OTST.Infrastructure\obj\Debug\net9.0\OTST.Infrastructure.pdb
+C:\GIT\OTST_dotNet\OTST.Infrastructure\obj\Debug\net9.0\ref\OTST.Infrastructure.dll

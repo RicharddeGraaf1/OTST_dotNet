@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0-windows7.0": {
+      "OTST.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "OTST.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OTST.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OTST.Application.dll": {}
+        }
+      },
+      "OTST.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/OTST.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OTST.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OTST.Application/1.0.0": {
+      "type": "project",
+      "path": "../OTST.Application/OTST.Application.csproj",
+      "msbuildProject": "../OTST.Application/OTST.Application.csproj"
+    },
+    "OTST.Domain/1.0.0": {
+      "type": "project",
+      "path": "../OTST.Domain/OTST.Domain.csproj",
+      "msbuildProject": "../OTST.Domain/OTST.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0-windows7.0": [
+      "OTST.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\RdG2\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\GIT\\OTST_dotNet\\OTST.App\\OTST.App.csproj",
+      "projectName": "OTST.App",
+      "projectPath": "C:\\GIT\\OTST_dotNet\\OTST.App\\OTST.App.csproj",
+      "packagesPath": "C:\\Users\\RdG2\\.nuget\\packages\\",
+      "outputPath": "C:\\GIT\\OTST_dotNet\\OTST.App\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\RdG2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0-windows"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "projectReferences": {
+            "C:\\GIT\\OTST_dotNet\\OTST.Application\\OTST.Application.csproj": {
+              "projectPath": "C:\\GIT\\OTST_dotNet\\OTST.Application\\OTST.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net9.0-windows7.0": {
+        "targetAlias": "net9.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
