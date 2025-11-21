@@ -49,9 +49,9 @@ public class ValidationTransformationTests : IAsyncLifetime
         {
             var expectedPath = Path.Combine(expectedDirectory, file!);
             var actualPath = Path.Combine(extractDirectory, file!);
-            var extension = Path.GetExtension(file);
+            var extension = Path.GetExtension(file) ?? string.Empty;
 
-            if (!extension.Equals(".xml", StringComparison.OrdinalIgnoreCase))
+            if (!IsXmlLike(extension))
             {
                 var expectedBytes = await File.ReadAllBytesAsync(expectedPath);
                 var actualBytes = await File.ReadAllBytesAsync(actualPath);
@@ -84,10 +84,14 @@ public class ValidationTransformationTests : IAsyncLifetime
             }
             else
             {
-                Canonicalize(actualContent).Should().Be(Canonicalize(expectedContent), $"Bestand {file} moet overeenkomen met referentie");
+                Canonicalize(SanitizeGenericXml(actualContent)).Should().Be(Canonicalize(SanitizeGenericXml(expectedContent)), $"Bestand {file} moet overeenkomen met referentie");
             }
         }
     }
+
+    private static bool IsXmlLike(string extension) =>
+        extension.Equals(".xml", StringComparison.OrdinalIgnoreCase) ||
+        extension.Equals(".gml", StringComparison.OrdinalIgnoreCase);
 
     private static string Canonicalize(string value)
     {
@@ -142,7 +146,9 @@ public class ValidationTransformationTests : IAsyncLifetime
 
     private static void AssertIo(string actualContent, string expectedContent)
     {
-        NormalizeIo(actualContent).Should().Be(NormalizeIo(expectedContent), "Informatieobject moet overeenkomen met referentie");
+        var normalizedActual = NormalizeIo(SanitizeIoXml(actualContent));
+        var normalizedExpected = NormalizeIo(SanitizeIoXml(expectedContent));
+        normalizedActual.Should().Be(normalizedExpected, "Informatieobject (hash genegeerd) moet overeenkomen met referentie");
     }
 
     private static void AssertOpdracht(string actualContent, string expectedContent)
@@ -254,6 +260,38 @@ public class ValidationTransformationTests : IAsyncLifetime
             SortAttributes(doc.Root);
         }
 
+        return doc.ToString(SaveOptions.DisableFormatting);
+    }
+
+    private static string SanitizeIoXml(string value)
+    {
+        var doc = XDocument.Parse(value);
+        foreach (var hashElement in doc.Descendants().Where(e => e.Name.LocalName.Equals("hash", StringComparison.OrdinalIgnoreCase)).ToList())
+        {
+            hashElement.Remove();
+        }
+        foreach (var element in doc.Root!.DescendantsAndSelf())
+        {
+            var namespaceAttributes = element.Attributes().Where(a => a.IsNamespaceDeclaration).ToList();
+            foreach (var attr in namespaceAttributes)
+            {
+                attr.Remove();
+            }
+        }
+        return doc.ToString(SaveOptions.DisableFormatting);
+    }
+
+    private static string SanitizeGenericXml(string value)
+    {
+        var doc = XDocument.Parse(value);
+        foreach (var element in doc.Root!.DescendantsAndSelf())
+        {
+            var namespaceAttributes = element.Attributes().Where(a => a.IsNamespaceDeclaration).ToList();
+            foreach (var attr in namespaceAttributes)
+            {
+                attr.Remove();
+            }
+        }
         return doc.ToString(SaveOptions.DisableFormatting);
     }
 

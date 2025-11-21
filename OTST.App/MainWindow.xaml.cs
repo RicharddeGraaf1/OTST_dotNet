@@ -1,11 +1,13 @@
 ﻿using System;
 using System.IO;
 using System.Text;
+using System.Threading.Tasks;
 using System.Windows;
 using Microsoft.Win32;
 using OTST.Application.Services;
-using OTST.Domain.Services;
 using OTST.Domain.Models;
+using OTST.Domain.Services;
+using OTST.Domain.Services.Validation;
 
 namespace OTST.App;
 
@@ -16,10 +18,12 @@ public partial class MainWindow : Window
 {
     private readonly ZipAnalysisFacade _analysisFacade = new();
     private readonly IntrekkingTransformationFacade _intrekkingFacade = new();
+    private readonly ValidationTransformationFacade _validationFacade = new();
 
     public MainWindow()
     {
         InitializeComponent();
+        SetTransformationButtonsEnabled(false);
     }
 
     private void BrowseButton_Click(object sender, RoutedEventArgs e)
@@ -32,6 +36,7 @@ public partial class MainWindow : Window
         if (dialog.ShowDialog(this) == true)
         {
             SourcePathTextBox.Text = dialog.FileName;
+            SetTransformationButtonsEnabled(true);
         }
     }
 
@@ -149,10 +154,10 @@ public partial class MainWindow : Window
     }
 
     private void HandlePublicatie_Click(object sender, RoutedEventArgs e) =>
-        ShowFeatureInProgress("publicatie-transformatie");
+        _ = ExecuteValidationAsync(isValidation: false);
 
     private void HandleValidatie_Click(object sender, RoutedEventArgs e) =>
-        ShowFeatureInProgress("validatie-transformatie");
+        _ = ExecuteValidationAsync(isValidation: true);
 
     private void HandleIntrekkingPublicatie_Click(object sender, RoutedEventArgs e) =>
         _ = ExecuteIntrekkingPublicatieAsync();
@@ -165,6 +170,47 @@ public partial class MainWindow : Window
 
     private void HandleValidatieDoorleveren_Click(object sender, RoutedEventArgs e) =>
         ShowFeatureInProgress("validatie doorlevering");
+    private async Task ExecuteValidationAsync(bool isValidation)
+    {
+        if (!TryGetSourcePath(out var path))
+        {
+            return;
+        }
+
+        var outputPath = ValidationTransformationService.GetDefaultOutputPath(path, isValidation);
+        var label = isValidation ? "Validatie" : "Publicatie";
+        SetBusyState(true, $"Bezig met {label.ToLowerInvariant()}...");
+        try
+        {
+            var result = await Task.Run(() =>
+                isValidation
+                    ? _validationFacade.TransformValidation(path, outputPath)
+                    : _validationFacade.TransformPublicatie(path, outputPath));
+
+            ResultTextBox.Text = await File.ReadAllTextAsync(result.ReportPath, Encoding.UTF8);
+            StatusTextBlock.Text = $"{label} voltooid. Output: {result.OutputZipPath}";
+
+            MessageBox.Show(this,
+                $"{label} is voltooid.{Environment.NewLine}Output: {result.OutputZipPath}{Environment.NewLine}Rapport: {result.ReportPath}",
+                label,
+                MessageBoxButton.OK,
+                MessageBoxImage.Information);
+        }
+        catch (Exception ex)
+        {
+            StatusTextBlock.Text = $"{label} mislukt.";
+            MessageBox.Show(this,
+                ex.Message,
+                $"Fout tijdens {label.ToLowerInvariant()}",
+                MessageBoxButton.OK,
+                MessageBoxImage.Error);
+        }
+        finally
+        {
+            SetBusyState(false);
+        }
+    }
+
 
     private void ShowFeatureInProgress(string featureName)
     {

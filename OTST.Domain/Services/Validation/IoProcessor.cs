@@ -5,6 +5,7 @@ using System.IO.Compression;
 using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
+using System.Xml;
 using System.Xml.Linq;
 using OTST.Domain.Abstractions;
 using OTST.Domain.Models;
@@ -178,7 +179,9 @@ internal sealed class IoProcessor
 
         if (root.Name.LocalName == "GeoInformatieObjectVaststelling" && root.Name.Namespace == GeoNs)
         {
-            var wasIds = root.Descendants(GeoNs + "wasID").ToList();
+            var clone = new XElement(root);
+            var wasIds = clone.Descendants(GeoNs + "wasID").ToList();
+
             if (wasIds.Count == 0)
             {
                 return gmlContent;
@@ -189,32 +192,81 @@ internal sealed class IoProcessor
                 wasId.Remove();
             }
 
-            return Encoding.UTF8.GetBytes(gmlDoc.ToString(SaveOptions.DisableFormatting));
+            var existingDocument = new XDocument(new XDeclaration("1.0", "UTF-8", "no"), clone);
+            return Serialize(existingDocument);
         }
 
         var today = _timeProvider.Today.ToString("yyyy-MM-dd");
 
-        var wrappedDoc = new XDocument(
-            new XDeclaration("1.0", "UTF-8", "yes"),
-            new XElement(GeoNs + "GeoInformatieObjectVaststelling",
-                new XAttribute(XNamespace.Xmlns + "geo", GeoNs.NamespaceName),
-                new XAttribute(XNamespace.Xmlns + "basisgeo", BasisGeoNs.NamespaceName),
-                new XAttribute(XNamespace.Xmlns + "gio", GioNs.NamespaceName),
-                new XAttribute(XNamespace.Xmlns + "gml", GmlNs.NamespaceName),
-                new XAttribute(XNamespace.Xmlns + "xsi", XsiNs.NamespaceName),
-                new XAttribute("schemaversie", "1.3.0"),
-                new XAttribute(XsiNs + "schemaLocation", "https://standaarden.overheid.nl/stop/imop/geo/ https://standaarden.overheid.nl/stop/1.3.0/imop-geo.xsd"),
-                new XElement(GeoNs + "context",
-                    new XElement(GioNs + "GeografischeContext",
-                        new XElement(GioNs + "achtergrondVerwijzing", "cbs"),
-                        new XElement(GioNs + "achtergrondActualiteit", today)
-                    )
-                ),
-                new XElement(GeoNs + "vastgesteldeVersie", ConvertElementToNamespace(root, root.Name.Namespace))
-            )
+        var cloneRoot = new XElement(root);
+        foreach (var wasId in cloneRoot.Descendants(GeoNs + "wasID").ToList())
+        {
+            wasId.Remove();
+        }
+
+        var wrappedRoot = new XElement(GeoNs + "GeoInformatieObjectVaststelling",
+            new XAttribute(XNamespace.Xmlns + "geo", GeoNs.NamespaceName),
+            new XAttribute(XNamespace.Xmlns + "basisgeo", BasisGeoNs.NamespaceName),
+            new XAttribute(XNamespace.Xmlns + "gio", GioNs.NamespaceName),
+            new XAttribute(XNamespace.Xmlns + "gml", GmlNs.NamespaceName),
+            new XAttribute(XNamespace.Xmlns + "xsi", XsiNs.NamespaceName),
+            new XAttribute("schemaversie", "1.3.0"),
+            new XAttribute(XsiNs + "schemaLocation", "https://standaarden.overheid.nl/stop/imop/geo/ https://standaarden.overheid.nl/stop/1.3.0/imop-geo.xsd"),
+            new XElement(GeoNs + "context",
+                new XElement(GioNs + "GeografischeContext",
+                    new XElement(GioNs + "achtergrondVerwijzing", "cbs"),
+                    new XElement(GioNs + "achtergrondActualiteit", today)
+                )
+            ),
+            new XElement(GeoNs + "vastgesteldeVersie", cloneRoot)
         );
 
-        return Encoding.UTF8.GetBytes(wrappedDoc.ToString(SaveOptions.DisableFormatting));
+        var wrappedDocument = new XDocument(new XDeclaration("1.0", "UTF-8", "no"), wrappedRoot);
+        return Serialize(wrappedDocument);
+    }
+
+    private static byte[] Serialize(XDocument document)
+    {
+        var settings = new XmlWriterSettings
+        {
+            Encoding = new UTF8Encoding(false),
+            Indent = true,
+            IndentChars = string.Empty,
+            NewLineChars = "\n",
+            NewLineHandling = NewLineHandling.Replace,
+            OmitXmlDeclaration = false
+        };
+
+        var sb = new StringBuilder();
+        using (var writer = XmlWriter.Create(new Utf8StringWriter(sb), settings))
+        {
+            document.WriteTo(writer);
+        }
+
+        var xml = sb.ToString();
+        if (!xml.StartsWith("<?xml", StringComparison.Ordinal))
+        {
+            xml = $"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n{xml}";
+        }
+        else
+        {
+            xml = xml.Replace("encoding=\"utf-8\"", "encoding=\"UTF-8\"", StringComparison.OrdinalIgnoreCase);
+            if (!xml.Contains("standalone=", StringComparison.OrdinalIgnoreCase))
+            {
+                xml = xml.Replace("?>", " standalone=\"no\"?>", StringComparison.Ordinal);
+            }
+        }
+
+        return Encoding.UTF8.GetBytes(xml);
+    }
+
+    private sealed class Utf8StringWriter : StringWriter
+    {
+        public Utf8StringWriter(StringBuilder builder) : base(builder)
+        {
+        }
+
+        public override Encoding Encoding => Encoding.UTF8;
     }
 
     private static string ComputeSha512(byte[] content)
@@ -229,5 +281,6 @@ internal sealed class IoProcessor
     internal sealed record FileContent(string FileName, byte[] Content);
 
     private sealed record IoFileRecord(string FileName, byte[] Content, string Hash);
+
 }
 
