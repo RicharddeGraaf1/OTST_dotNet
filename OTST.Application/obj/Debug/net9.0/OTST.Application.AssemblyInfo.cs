@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OTST.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+977e4643d4489f26957c8dfc2d3717794e158f26")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+898d696217da67d4d48140f42e86cd607c2a129b")]
 [assembly: System.Reflection.AssemblyProductAttribute("OTST.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OTST.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
