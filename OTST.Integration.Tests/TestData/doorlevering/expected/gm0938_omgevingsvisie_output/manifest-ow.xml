@@ -1,0 +1,24 @@
+<mow:Aanleveringen xmlns:mow="http://www.geostandaarden.nl/bestanden-ow/manifest-ow">
+  <domein xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.geostandaarden.nl/bestanden-ow/manifest-ow">omgevingswet</domein>
+  <Aanlevering xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.geostandaarden.nl/bestanden-ow/manifest-ow">
+    <WorkIDRegeling>/akn/nl/act/gm0938/2020/omgevingsvisie</WorkIDRegeling>
+    <DoelID>/join/id/proces/gm0938/2025/OMGEVINGSVISIEGEMEENTEMEERSSEN19/</DoelID>
+    <Bestand>
+      <naam>gebieden.xml</naam>
+      <objecttype>Gebied</objecttype>
+    </Bestand>
+    <Bestand>
+      <naam>regelingsgebied.xml</naam>
+      <objecttype>Regelingsgebied</objecttype>
+    </Bestand>
+    <Bestand>
+      <naam>tekstdelen.xml</naam>
+      <objecttype>Tekstdeel</objecttype>
+    </Bestand>
+    <Bestand>
+      <naam>divisieaanduidingen.xml</naam>
+      <objecttype>Divisie</objecttype>
+      <objecttype>Divisietekst</objecttype>
+    </Bestand>
+  </Aanlevering>
+</mow:Aanleveringen>

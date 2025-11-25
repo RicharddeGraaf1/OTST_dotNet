@@ -1,0 +1,1168 @@
+<owBestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+  <standBestand xmlns="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek">
+    <dataset>Onbekend</dataset>
+    <inhoud>
+      <gebied>Onbekend</gebied>
+      <leveringsId>gm0938-20251014-e3a1a352-59b2-4e9b-b975-8f6d28cf4860</leveringsId>
+      <objectTypen>
+        <objectType>Divisie</objectType>
+        <objectType>Divisietekst</objectType>
+      </objectTypen>
+    </inhoud>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.a721d1154bd240239274e017df566a44</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.09b3d3237b5f4767b5414fb268f583ee</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_01" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.0644bebff3204a54945545fd5c539001</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_02" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.edabfe0f3aa64904bfb09b72dd4b1754</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_03" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.52cc7593c6cb4f1bbf80b4c8012e7646</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.6bc3e0d1004f49ca9ff933c387c37c9b</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.23ac3e12176c4244a0963b6eaca9a6b8</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_06" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.3a0a558a77a144d88219940bb42d5edc</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_07" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.2249e080dc8f4aa7b4025721229069c2</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.0caff8a79ffe4f3f8df8f0fe1193ad78</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.eb404f8c088d42ae82ce7b3430a2a8ee</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.7ef57507023a44f2add5012db14b3649</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.51bb275def55447bb6f6e33b7129b980</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.ef767f9fa3a743b1b1974fcee2a851f4</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.4b1ebf4893c94b0c8a4176558f1be4b9</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_5" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.c4afc44a528346fdadbd7f2661716788</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_6" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.ef9d68d0ce054d148658d9650060db6f</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_7" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.235ed341968145abb9e2ff8ea93ea7d6</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_2__div_8" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.d66ad99d0b1f43119c33667a1f4b7232</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_2__div_9" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.aef4503742574015aacd2b036360c97b</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_2__div_10" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.c6be1b334b8747ab92e73822c992ac56</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_2__div_11" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.5d280367a30043e4b1ac44bf69bd9c66</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_2__div_12" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.d146d828ea834711ba8bf0a87f918129</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.deba26c035c54b8286fa07880a20deba</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.36214e41db4d4748bc7f94718043b177</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.4aa7065cca474aa2a57dd3c3023dc456</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.181ae5e0d42a40b5a0004fc4ca182dbf</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.4__div_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.9cf33fefb134497e8569a2d227b609b0</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.3__div_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.c03813940ac84b859aae8d652935a4eb</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.2__div_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.ffd86d0fe50447d8a802f84fdaf5c5ac</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.1__div_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.c950bf06e3e44fb086f8574e2242e6b9</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_03__div_3.1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.593ebd44a6804ca1b4149dd2e0a498bd</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_03__div_3.3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.716b956188d643c7b11c1965575f8a16</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_03__div_3.4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.449bc26205c9420ba65bf8a7bf13b611</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_02__div_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.b0d7af35da4341c9b19b86b0622f3991</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisie wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_02__div_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisie.2106b491d81e45e784c3c22b36417f8f</identificatie>
+        </Divisie>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_07__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.4dcc4d3eaae24311946628e14181d98f</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_07__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.dd13147041e0446a9ba35000f8d48c4b</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_07__content_o_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.116e224045564eeb855c1ae1c758214c</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_07__content_o_4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.a30d859ba7974041966b652493df0884</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_07__content_o_5" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.893359c34c24435eabaf1e0740243c9b</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_07__content_o_6" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.8d672828c3ec443786c879308e0ccab0</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_07__content_o_7" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.59cb4ea3f4254f018766a6cc97ddea41</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_06__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.56838edafcba49868cbe92844fd65551</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_06__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.ee28ab781c0e4256896e40277e6a6fb6</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_06__content_o_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.540b755d8ce844e7a69006545ac5f970</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_06__content_o_4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.5e42f682dbdf45fcbb010eab2edec17d</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_06__content_o_5" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.d426f3cd51934fde87e88953400ce9ad</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_06__content_o_6" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.7363becf546547c98d3878e7acd5c921</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.f2bab65f5b1d4642af7bf7e9dd02d957</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.dee341ff986e4d98a2ee93fa45aa1c8c</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_1__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.9dec36201fb347988177b5e89a5f36a9</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_1__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.1a8ff645dffc4fe2a79fe5f8eff99233</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_1__content_o_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.f48882ad95d047fe880f134935a5f59f</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_1__content_o_4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.e1e6ab3c4f00491f9408924681d2a8ca</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_2__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.c358f7bec3ea4fce852bcd2dfc6ca44d</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_2__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.118fb8f7f8d042d9a66e255fd3f87b06</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_2__content_o_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.20c0cce96c6a492f9ea695dc1ba8a498</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_2__content_o_4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.15f5d130eb8e47a8bcd74cafb77ccb61</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_3__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.84b479a28709471089d23b043916af45</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_3__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.12c2724f3b6b49fc91541997c3573ac5</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_3__content_o_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.c632362090874ee8a9b469abff5c7f65</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_3__content_o_4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.3ac32d0e6e41468d85946609ac602f02</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_4__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.51f5a5eb8bf241dfae5777b8ea8327c8</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_4__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.7461b2c73a9742079795ebb0e649b11e</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_4__content_o_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.d692c1debfd24328b88fd242549a2547</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_4__content_o_4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.ce75d609df2d4cbcbd2e30ddae2c7589</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_5__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.27f65ad3bb9548d0b43d7a730ac16b97</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_5__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.4b49b8b1c89a454a8e29946424391cac</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_5__content_o_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.5c225bc8045e421e8dd494625ae7c99f</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_5__content_o_4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.7a2f292a9ef443669f31195c95404163</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_6__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.ba3189f8f9fb465f91fe8a375d9fb168</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_6__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.03f7aaaaff074f18a08c5dd9c4f0193b</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_6__content_o_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.aac6be0e23cd4ce0af8b0a2e8fde168e</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_6__content_o_4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.b8e7e7279efb451c9b1bc23fa8254dd0</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_7__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.0fa8976fbbdd4c4a96f4bbefc703ef44</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_7__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.e5490042752148289155e4fb16165c6a</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_7__content_o_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.8abfa7548c3743c9a2b76133a105e785</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_1__div_7__content_o_4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.dcd7d83be2f94b6f9161ee05bbc3e371</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_2__div_8__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.d4525f8db92c491fb32783e99fa1f5bc</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_2__div_8__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.ed419ff744af4082b771e980e07dc272</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_2__div_8__content_o_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.92393748d4324363b3a6a91291320a36</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_2__div_8__content_o_4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.477852e1b58747ee92ca350e0d0e37d9</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_2__div_9__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.6bf6a5ad986e4bcbb30b0b79ef805239</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_2__div_9__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.29a1b4dafd404506950f57b028206258</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_2__div_9__content_o_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.a36ec058858d428da7b353adf5084e72</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_2__div_9__content_o_4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.9df87d29c4614dfba8f6996c3781f93e</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_2__div_10__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.923b0f3f5d5f4bc6af135baf475691be</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_2__div_10__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.e4b28545dcf4496ba4da9fb5083ab194</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_2__div_10__content_o_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.dcd89d40990440e7a8cd7e9e48791dbf</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_2__div_10__content_o_4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.bbc554d166e240f0b85dc0c3aae17790</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_2__div_11__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.4fef8470dbda4ed1bd8b8374112e1a65</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_2__div_11__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.596fc153538c4b91a9a3d834782076b8</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_2__div_11__content_o_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.ec4c5a400c224546a5d49b5c7b441740</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_2__div_11__content_o_4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.2a6a30d2721b4c4a97e8ee295210faac</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_2__div_12__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.c845153ad25649a483b00e4eeec01233</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_2__div_12__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.1623d1af68384e9f95d830af3c5f8f66</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_2__div_12__content_o_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.40eba8dd3cb54920b0c5d7e7bf23974d</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_05__div_o_2__div_12__content_o_4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.8b4a5f73b5d2400cb55ed0c0442406b1</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.361b4b9dce334c97956e6970a803f780</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.4__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.8f85c384505244a99c7cd5c741bd9a17</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.4__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.80ae46b7ecae48fb9e8282bc6393517f</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.4__div_o_1__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.f8924d5481a949868ca81853ef1195c2</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.4__div_o_1__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.b9f6edb5a77245319e57a0108338ce41</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.4__div_o_1__content_o_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.13c1db2f39f64d178ff5bbb547fae75c</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.4__div_o_1__content_o_4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.72133b2d10604288a24bf4a37cad2082</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.4__div_o_1__content_o_5" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.72b116eba3f74e5aa44b66b7f600186a</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.3__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.da4957f897294220a44f048c692d5783</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.3__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.f2430c770aad42ea914ebb1de2ccd5ae</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.3__div_o_1__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.9f01b4f1d95249419a82a5d2a1cc8951</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.3__div_o_1__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.528ae00dde9a421aaf0a71dab86f03c6</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.3__div_o_1__content_o_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.f9b5a5458f3040989ccc9b35495d502e</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.3__div_o_1__content_o_4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.0a6b4080ad504bd7aaefe9f2343c7897</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.3__div_o_1__content_o_5" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.fde9f44f96464b1ebc75999b3a877c65</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.3__div_o_1__content_o_6" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.0f2913002237402aa30f9b5f41b715ab</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.2__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.010dc5e22ae84f2190c3ee581e56e77e</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.2__content_o_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.02e05e48e9bc453788ae8404f8864f88</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.2__div_o_1__content_o_5" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.584729b8220b4591b928d43d51416af1</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.2__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.3b6cef93560f4c1dbdbfc5fa9187e693</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.2__div_o_1__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.2b4d9edc4084462cbea9fd79eeedcbf8</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.2__div_o_1__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.a5545225d8f4432abf7b9ebdcb53dda4</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.2__div_o_1__content_o_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.fc502037e17c426ca48b8e761df382dc</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.2__div_o_1__content_o_4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.352a1d55d621451aad6a17721ea2bd1a</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.1__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.648799c601e04a1e939e0ef6473a3863</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.1__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.ec70e6b0365747d6a2389af1b67aac23</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.1__div_o_1__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.7fc35ceae85a4ae8881642cafa4155ac</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.1__div_o_1__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.8799746f8a5e47d9ba3e450ddc28b5b1</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.1__div_o_1__content_o_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.558c71b5a324431f8e48ef41a548a760</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_04__div_4.1__div_o_1__content_o_4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.a4ea37eb9c744c5ead8ffc4138aeea87</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_03__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.5c987bd343ef46cbb9c8c53e8cef3d2d</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_03__div_3.1__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.14b3d806aef240b9b03f5b74eee2089d</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_03__div_3.1__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.8a1b2c450983409382feecdceb209daf</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_03__div_3.1__content_o_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.8b7459ab2d66480199967452f2792aae</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_03__content_3.2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.9eeeeb7ad3bd4094a25f4cde179b2220</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_03__div_3.4__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.a40005f74030490e93036a4ce51387d7</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_03__div_3.4__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.5fde959c3fda450cb5a8bbbf5727c98f</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_03__div_3.4__content_o_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.db6191ee921d48af807fca1a5ca99e81</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_03__div_3.3__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.1ccddbfd4c2c4f548764f185751a0bf0</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_02__div_o_1__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.dbcbe5279d4e4c13a05f11abb3a877dd</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_02__div_o_1__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.5773f09dd9d34f6b85f175ce23907fe7</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_02__div_o_1__content_o_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.fa7add48c4294f06903d09fa7b63aaee</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_02__div_o_1__content_o_4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.e70c159e394d415dbcb065ce8cca105b</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_02__div_o_1__content_o_5" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.198c084fa54f44c5b3fc15997f37580b</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_02__div_o_1__content_o_6" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.85e1476e8bb244baa61adc69011b1eae</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_02__div_o_1__content_o_7" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.c98cc234ae18475c995d15769f49dd22</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_02__div_o_1__content_o_8" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.f8c754197bed4b2d8538fa607a06068e</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_02__div_o_2__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.1362676d4a5d4a29a3bb3e933d08ca93</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_02__div_o_2__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.b9cdf184cd3a490789d31d2539687901</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_02__div_o_2__content_o_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.80ce2332b5b84374ad446a60a1d90611</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_02__div_o_2__content_o_4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.9c1ed6cc8a8444ef88b962fe33155e45</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_02__div_o_2__content_o_5" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.d14fd5aed0c249f9b7821e44c1bbcdb3</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_01__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.eda10b1fa53745b198075d1236fba721</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_01__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.cc12cd52ce6041ae8e3bedbd12843ded</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_01__content_o_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.b9710759cedc47b589c4a98b18ef6e77</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_01__content_o_4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.aa2bb3686c6243ed96ee237a41276b9c</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_01__content_o_5" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.008c9a4665074063be1ef8f121462116</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_01__content_o_6" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.3ec6932d981f4f499c1ef1554a8d9d2a</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_o_1__content_o_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.f4dd16229c924c6a84de0a08ab5aec38</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_o_1__content_o_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.bd70ee9967924a34ba5c5251f37625ec</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_o_1__content_1" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.0da56823f16b4a2aa9f635ca74e09f9b</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_o_1__content_2" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.ce8b0e8e072b4b61bf33693c43247dd3</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_o_1__content_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.f1b4631994824532bff9f108c9b34510</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_o_1__content_4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.3ce86fa6c7fa4303aa8424b207bba6ba</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_o_1__content_o_3" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.8719d7a9aa0244a2a8931c2dc8d79f38</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Divisietekst wId="gm0938_a9311ba05b9f467c85591b4991a44412__body__div_o_1__div_o_1__content_o_4" xmlns="http://www.geostandaarden.nl/imow/vrijetekst">
+          <identificatie>nl.imow-gm0938.divisietekst.b1d1241cf2cd4d23a92aa2782d205e31</identificatie>
+        </Divisietekst>
+      </owObject>
+    </stand>
+  </standBestand>
+</owBestand>

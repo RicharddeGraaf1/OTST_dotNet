@@ -1,0 +1,14 @@
+<mow:Aanleveringen xmlns:mow="http://www.geostandaarden.nl/bestanden-ow/manifest-ow"><domein xmlns="http://www.geostandaarden.nl/bestanden-ow/manifest-ow" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">omgevingswet</domein><Aanlevering xmlns="http://www.geostandaarden.nl/bestanden-ow/manifest-ow" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<WorkIDRegeling>/akn/nl/act/gm0590/2025/PrgKlimaatadaptatie</WorkIDRegeling>
+	<DoelID>/join/id/proces/gm0590/2025/ProgKlimaatadaptatiePPD20252029</DoelID>
+	<Bestand>
+			<naam>divisies.xml</naam>
+			<objecttype>Divisie</objecttype><objecttype>Divisietekst</objecttype>
+		</Bestand><Bestand>
+			<naam>regelingsgebied.xml</naam>
+			<objecttype>Regelingsgebied</objecttype>
+		</Bestand><Bestand>
+			<naam>tekstdelen.xml</naam>
+			<objecttype>Tekstdeel</objecttype>
+		</Bestand>
+</Aanlevering></mow:Aanleveringen>

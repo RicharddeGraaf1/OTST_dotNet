@@ -1,0 +1,172 @@
+<lvbbu:Consolidaties schemaversie="1.2.0" xmlns:lvbbu="https://standaarden.overheid.nl/lvbb/stop/uitlevering/">
+  <lvbbu:Consolidatie>
+    <consolidatie:ConsolidatieIdentificatie xmlns:consolidatie="https://standaarden.overheid.nl/stop/imop/consolidatie/">
+      <consolidatie:FRBRWork>/akn/nl/act/gemeente/2025/CVDR747726</consolidatie:FRBRWork>
+      <consolidatie:soortWork>/join/id/stop/work_022</consolidatie:soortWork>
+      <consolidatie:isConsolidatieVan>
+	<consolidatie:WorkIdentificatie>
+	  <consolidatie:FRBRWork>/akn/nl/act/gm0687/2025/Regelingad21eaad71824b4797db43ae1eb55f02</consolidatie:FRBRWork>
+	  <consolidatie:soortWork>/join/id/stop/work_021</consolidatie:soortWork>
+	</consolidatie:WorkIdentificatie>
+      </consolidatie:isConsolidatieVan>
+      <consolidatie:isTijdelijkDeelVan>
+	<consolidatie:WorkIdentificatie>
+	  <consolidatie:FRBRWork>/akn/nl/act/gemeente/2024/CVDR696383</consolidatie:FRBRWork>
+	  <consolidatie:soortWork>/join/id/stop/work_006</consolidatie:soortWork>
+	</consolidatie:WorkIdentificatie>
+      </consolidatie:isTijdelijkDeelVan>
+    </consolidatie:ConsolidatieIdentificatie>
+    <consolidatie:Toestanden xmlns:consolidatie="https://standaarden.overheid.nl/stop/imop/consolidatie/">
+      <consolidatie:bekendOp>2025-11-25</consolidatie:bekendOp>
+      <consolidatie:ontvangenOp>2025-11-25</consolidatie:ontvangenOp>
+      <consolidatie:BekendeToestand>
+	<consolidatie:FRBRExpression>/akn/nl/act/gemeente/2025/CVDR747726/nld@2025-11-25</consolidatie:FRBRExpression>
+	<consolidatie:gerealiseerdeDoelen>
+	  <consolidatie:doel>/join/id/proces/gm0687/2025/procedure3b20007ed4a0457da34cc3dfb7f92cc6</consolidatie:doel>
+	</consolidatie:gerealiseerdeDoelen>
+	<consolidatie:geldigheid>
+	  <consolidatie:Geldigheidsperiode>
+	    <consolidatie:juridischWerkendOp>
+	      <consolidatie:Periode>
+		<consolidatie:vanaf>2025-11-25</consolidatie:vanaf>
+	      </consolidatie:Periode>
+	    </consolidatie:juridischWerkendOp>
+	    <consolidatie:geldigOp>
+	      <consolidatie:Periode>
+		<consolidatie:vanaf>2025-11-25</consolidatie:vanaf>
+	      </consolidatie:Periode>
+	    </consolidatie:geldigOp>
+	  </consolidatie:Geldigheidsperiode>
+	</consolidatie:geldigheid>
+	<consolidatie:instrumentVersie>/akn/nl/act/gm0687/2025/Regelingad21eaad71824b4797db43ae1eb55f02/nld@2025-11-20;14033421</consolidatie:instrumentVersie>
+      </consolidatie:BekendeToestand>
+    </consolidatie:Toestanden>
+    <lvbbu:RegelingVersie schemaversie="1.2.0">
+      <data:ExpressionIdentificatie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+	<data:FRBRWork>/akn/nl/act/gm0687/2025/Regelingad21eaad71824b4797db43ae1eb55f02</data:FRBRWork>
+	<data:FRBRExpression>/akn/nl/act/gm0687/2025/Regelingad21eaad71824b4797db43ae1eb55f02/nld@2025-11-20;14033421</data:FRBRExpression>
+	<data:soortWork>/join/id/stop/work_021</data:soortWork>
+	<data:isTijdelijkDeelVan>
+	  <data:WorkIdentificatie>
+	    <data:FRBRWork>/akn/nl/act/gm0687/2020/omgevingsplan</data:FRBRWork>
+	    <data:soortWork>/join/id/stop/work_019</data:soortWork>
+	  </data:WorkIdentificatie>
+	</data:isTijdelijkDeelVan>
+      </data:ExpressionIdentificatie>
+      <data:RegelingVersieMetadata xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+	<data:versienummer>1</data:versienummer>
+      </data:RegelingVersieMetadata>
+      <tekst:RegelingTijdelijkdeel xmlns:tekst="https://standaarden.overheid.nl/stop/imop/tekst/">
+	<tekst:RegelingOpschrift eId="longTitle" wId="longTitle">
+	  <tekst:Al>Voorbeschermingsregels gemeente Middelburg</tekst:Al>
+	</tekst:RegelingOpschrift>
+	<tekst:Lichaam eId="body" wId="body">
+	  <tekst:Conditie>
+	    <tekst:Artikel eId="art_o_1" wId="gm0687_d8be15375a72482296b7587d1d2fc079__art_o_1">
+	      <tekst:Kop>
+		<tekst:Opschrift>Voorrangsbepaling</tekst:Opschrift>
+	      </tekst:Kop>
+	      <tekst:Inhoud>
+		<tekst:Al>Voor zover de regels van de hoofdregeling van het omgevingsplan afwijken van deze voorbeschermingsregels gelden alleen de voorbeschermingsregels.</tekst:Al>
+	      </tekst:Inhoud>
+	    </tekst:Artikel>
+	  </tekst:Conditie>
+	  <tekst:Hoofdstuk eId="chp_1" wId="gm0687_2d1c744e7b244b63ad022ce1f6d6398d__chp_1">
+	    <tekst:Kop>
+	      <tekst:Label>Hoofdstuk</tekst:Label>
+	      <tekst:Nummer>1</tekst:Nummer>
+	      <tekst:Opschrift>Voorbeschermingsregels</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Artikel eId="chp_1__art_1.1" wId="gm0687_664fc3e11a234e9fb3c314ef62894416__chp_1__art_1.1">
+	      <tekst:Kop>
+		<tekst:Label>Artikel</tekst:Label>
+		<tekst:Nummer>1.1</tekst:Nummer>
+		<tekst:Opschrift>Verbod op de bouw van garageboxen en bedrijfsunits met een bruto vloeroppervlak van minder dan 150 m² op de begane grond</tekst:Opschrift>
+	      </tekst:Kop>
+	      <tekst:Inhoud>
+		<tekst:Al>Het is verboden op het <tekst:IntIoRef ref="gm0687_f4baaaba37444208aea09f460f4ea016__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1" eId="chp_1__art_1.1__ref_o_1" wId="gm0687_664fc3e11a234e9fb3c314ef62894416__chp_1__art_1.1__ref_o_1">Noordweg 467 en 469 Middelburg</tekst:IntIoRef> te Middelburg garageboxen en bedrijfsunits met een bruto-oppervlakte van minder dan 150 m² op de begane grond te realiseren. </tekst:Al>
+	      </tekst:Inhoud>
+	    </tekst:Artikel>
+	  </tekst:Hoofdstuk>
+	</tekst:Lichaam>
+	<tekst:Bijlage eId="cmp_o_1" wId="gm0687_a5c6c6bb451a402d97da549e2f54fdf8__cmp_o_1">
+	  <tekst:Kop>
+	    <tekst:Label>Bijlage</tekst:Label>
+	    <tekst:Nummer>I</tekst:Nummer>
+	    <tekst:Opschrift>Overzicht Informatieobjecten</tekst:Opschrift>
+	  </tekst:Kop>
+	  <tekst:Divisietekst eId="cmp_o_1__content_o_1" wId="gm0687_11f09a9ab6ef4a86afc88ee44478d63f__cmp_o_1__content_o_1">
+	    <tekst:Inhoud>
+	      <tekst:Begrippenlijst eId="cmp_o_1__content_o_1__list_o_1" wId="gm0687_2f1b717727744a538c0fc5f12ca8ed55__cmp_o_1__content_o_1__list_o_1">
+		<tekst:Begrip eId="cmp_o_1__content_o_1__list_o_1__item_o_1" wId="gm0687_17a9d623e12348e0b61beea8c93becf5__cmp_o_1__content_o_1__list_o_1__item_o_1">
+		  <tekst:Term>Noordweg 467 en 469 Middelburg</tekst:Term>
+		  <tekst:Definitie>
+		    <tekst:Al>
+                        <tekst:ExtIoRef eId="cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1" wId="gm0687_f4baaaba37444208aea09f460f4ea016__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/regdata/gm0687/2025/b744c8c7e2e44531a6448a0a5d911e16/nld@2025-11-20;14033434">/join/id/regdata/gm0687/2025/b744c8c7e2e44531a6448a0a5d911e16/nld@2025-11-20;14033434</tekst:ExtIoRef>
+                      </tekst:Al>
+		  </tekst:Definitie>
+		</tekst:Begrip>
+	      </tekst:Begrippenlijst>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	</tekst:Bijlage>
+	<tekst:Toelichting eId="recital" wId="recital">
+	  <tekst:Kop>
+	    <tekst:Opschrift>Toelichting</tekst:Opschrift>
+	  </tekst:Kop>
+	</tekst:Toelichting>
+      </tekst:RegelingTijdelijkdeel>
+    </lvbbu:RegelingVersie>
+    <lvbbu:AnnotatieBijToestand>
+      <data:ExpressionIdentificatie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+	<data:FRBRWork>/akn/nl/act/gemeente/2025/CVDR747726</data:FRBRWork>
+	<data:FRBRExpression>/akn/nl/act/gemeente/2025/CVDR747726/nld@2025-11-25</data:FRBRExpression>
+	<data:soortWork>/join/id/stop/work_022</data:soortWork>
+	<data:isTijdelijkDeelVan>
+	  <data:WorkIdentificatie>
+	    <data:FRBRWork>/akn/nl/act/gemeente/2024/CVDR696383</data:FRBRWork>
+	    <data:soortWork>/join/id/stop/work_006</data:soortWork>
+	  </data:WorkIdentificatie>
+	</data:isTijdelijkDeelVan>
+      </data:ExpressionIdentificatie>
+      <data:RegelingMetadata xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+	<data:heeftCiteertitelInformatie>
+	  <data:CiteertitelInformatie>
+	    <data:citeertitel>Voorbeschermingsregels gemeente Middelburg</data:citeertitel>
+	    <data:isOfficieel>false</data:isOfficieel>
+	  </data:CiteertitelInformatie>
+	</data:heeftCiteertitelInformatie>
+	<data:eindverantwoordelijke>/tooi/id/gemeente/gm0687</data:eindverantwoordelijke>
+	<data:maker>/tooi/id/gemeente/gm0687</data:maker>
+	<data:officieleTitel>Voorbeschermingsregels gemeente Middelburg</data:officieleTitel>
+	<data:onderwerpen>
+	  <data:onderwerp>/tooi/def/concept/c_cfc7d5ab</data:onderwerp>
+	</data:onderwerpen>
+	<data:overheidsdomeinen>
+	  <data:overheidsdomein>/tooi/def/concept/c_3708ac5e</data:overheidsdomein>
+	</data:overheidsdomeinen>
+	<data:rechtsgebieden>
+	  <data:rechtsgebied>/tooi/def/concept/c_8ad05f6d</data:rechtsgebied>
+	</data:rechtsgebieden>
+	<data:soortRegeling>/join/id/stop/regelingtype_015</data:soortRegeling>
+	<data:soortBestuursorgaan>/tooi/def/thes/kern/c_28ecfd6d</data:soortBestuursorgaan>
+      </data:RegelingMetadata>
+    </lvbbu:AnnotatieBijToestand>
+    <lvbbu:AnnotatieBijToestand>
+      <data:ExpressionIdentificatie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+	<data:FRBRWork>/akn/nl/act/gemeente/2025/CVDR747726</data:FRBRWork>
+	<data:FRBRExpression>/akn/nl/act/gemeente/2025/CVDR747726/nld@2025-11-25</data:FRBRExpression>
+	<data:soortWork>/join/id/stop/work_022</data:soortWork>
+	<data:isTijdelijkDeelVan>
+	  <data:WorkIdentificatie>
+	    <data:FRBRWork>/akn/nl/act/gemeente/2024/CVDR696383</data:FRBRWork>
+	    <data:soortWork>/join/id/stop/work_006</data:soortWork>
+	  </data:WorkIdentificatie>
+	</data:isTijdelijkDeelVan>
+      </data:ExpressionIdentificatie>
+      <lvbbu:VerrijkingDoorLVBB>
+	<lvbbu:eindverantwoordelijkeHoofdregeling>/tooi/id/gemeente/gm0687</lvbbu:eindverantwoordelijkeHoofdregeling>
+      </lvbbu:VerrijkingDoorLVBB>
+    </lvbbu:AnnotatieBijToestand>
+  </lvbbu:Consolidatie>
+</lvbbu:Consolidaties>

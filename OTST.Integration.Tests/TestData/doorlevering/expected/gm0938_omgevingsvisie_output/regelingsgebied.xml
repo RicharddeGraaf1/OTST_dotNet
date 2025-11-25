@@ -1,0 +1,22 @@
+<owBestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+  <standBestand xmlns="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek">
+    <dataset>Onbekend</dataset>
+    <inhoud>
+      <gebied>Onbekend</gebied>
+      <leveringsId>gm0938-20251014-e3a1a352-59b2-4e9b-b975-8f6d28cf4860</leveringsId>
+      <objectTypen>
+        <objectType>Regelingsgebied</objectType>
+      </objectTypen>
+    </inhoud>
+    <stand>
+      <owObject xmlns="http://www.geostandaarden.nl/imow/bestanden/deelbestand">
+        <Regelingsgebied xmlns="http://www.geostandaarden.nl/imow/regelingsgebied">
+          <identificatie>nl.imow-gm0938.regelingsgebied.33d3e3892bb643cfb2fe950f971b2cd3</identificatie>
+          <locatieaanduiding>
+            <LocatieRef p9:href="nl.imow-gm0938.ambtsgebied.9999999999" xmlns:p9="http://www.w3.org/1999/xlink" xmlns="http://www.geostandaarden.nl/imow/locatie"/>
+          </locatieaanduiding>
+        </Regelingsgebied>
+      </owObject>
+    </stand>
+  </standBestand>
+</owBestand>

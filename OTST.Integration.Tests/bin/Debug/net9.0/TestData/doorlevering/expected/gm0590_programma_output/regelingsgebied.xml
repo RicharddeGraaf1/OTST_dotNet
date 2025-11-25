@@ -1,0 +1,22 @@
+<ow-dc:owBestand xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek" xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand" xmlns:ow="http://www.geostandaarden.nl/imow/owobject" xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied" xmlns:l="http://www.geostandaarden.nl/imow/locatie">
+	<sl:standBestand>
+		<sl:dataset>GEMEENTE PAPENDRECHT</sl:dataset>
+		<sl:inhoud>
+			<sl:gebied>GEMEENTE PAPENDRECHT</sl:gebied>
+			<sl:leveringsId>192025313</sl:leveringsId>
+			<sl:objectTypen>
+				<sl:objectType>Regelingsgebied</sl:objectType>
+			</sl:objectTypen>
+		</sl:inhoud>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rg:Regelingsgebied>
+					<rg:identificatie>nl.imow-gm0590.regelingsgebied.P2025000001</rg:identificatie> 
+					<rg:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-gm0590.ambtsgebied.9999999999"/>
+					</rg:locatieaanduiding>
+				</rg:Regelingsgebied>
+			</ow-dc:owObject>
+		</sl:stand>
+	</sl:standBestand>
+</ow-dc:owBestand>

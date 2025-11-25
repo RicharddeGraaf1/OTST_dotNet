@@ -1,0 +1,22 @@
+<ow-dc:owBestand xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" xmlns:l="http://www.geostandaarden.nl/imow/locatie" xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen" xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek" xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand" xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie" xmlns:p="http://www.geostandaarden.nl/imow/pons" xmlns:r="http://www.geostandaarden.nl/imow/regels" xmlns:k="http://www.geostandaarden.nl/imow/kaart" xmlns:ow="http://www.geostandaarden.nl/imow/owobject" xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied" xmlns:op="http://www.geostandaarden.nl/imow/opobject" xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst">
+  <sl:standBestand>
+    <sl:dataset>Voorbeschermingsregels perceel Noordweg 467 en 469 Middelburg</sl:dataset>
+    <sl:inhoud>
+      <sl:gebied>Gemeente Middelburg</sl:gebied>
+      <sl:leveringsId>dummie leveringsId</sl:leveringsId>
+      <sl:objectTypen>
+        <sl:objectType>Regelingsgebied</sl:objectType>
+      </sl:objectTypen>
+    </sl:inhoud>
+    <sl:stand>
+      <ow-dc:owObject>
+        <rg:Regelingsgebied>
+          <rg:identificatie>nl.imow-gm0687.regelingsgebied.8faf13d1fc0441ef89872d2e0c6d26fd</rg:identificatie>
+          <rg:locatieaanduiding>
+            <l:LocatieRef xlink:href="nl.imow-gm0687.ambtsgebied.8faf13d1fc0441ef89872d2e0c6d26fd"/>
+          </rg:locatieaanduiding>
+        </rg:Regelingsgebied>
+      </ow-dc:owObject>
+    </sl:stand>
+  </sl:standBestand>
+</ow-dc:owBestand>

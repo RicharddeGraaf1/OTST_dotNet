@@ -1,0 +1,862 @@
+<lvbbu:UitleveringProefversieBesluit schemaversie="1.2.0" xmlns:lvbbu="https://standaarden.overheid.nl/lvbb/stop/uitlevering/">
+  <data:ExpressionIdentificatie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+    <data:FRBRWork>/akn/nl/bill/gm0590/2025/PrgKlimaatadaptatie</data:FRBRWork>
+    <data:FRBRExpression>/akn/nl/bill/gm0590/2025/PrgKlimaatadaptatie/nld@2025-11-20</data:FRBRExpression>
+    <data:soortWork>/join/id/stop/work_003</data:soortWork>
+  </data:ExpressionIdentificatie>
+  <data:Procedureverloop xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+    <data:bekendOp>2025-11-24</data:bekendOp>
+    <data:ontvangenOp>2025-11-24</data:ontvangenOp>
+    <data:procedurestappen>
+      <data:Procedurestap>
+	<data:soortStap>/join/id/stop/procedure/stap_002</data:soortStap>
+	<data:voltooidOp>2025-10-07</data:voltooidOp>
+      </data:Procedurestap>
+      <data:Procedurestap>
+	<data:soortStap>/join/id/stop/procedure/stap_003</data:soortStap>
+	<data:voltooidOp>2025-10-07</data:voltooidOp>
+      </data:Procedurestap>
+      <data:Procedurestap>
+	<data:soortStap>/join/id/stop/procedure/stap_004</data:soortStap>
+	<data:voltooidOp>2025-11-24</data:voltooidOp>
+      </data:Procedurestap>
+    </data:procedurestappen>
+  </data:Procedureverloop>
+  <data:BesluitMetadata xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+    <data:heeftCiteertitelInformatie>
+      <data:CiteertitelInformatie>
+	<data:citeertitel>Programma Klimaatadaptatie 2025-2029</data:citeertitel>
+	<data:isOfficieel>true</data:isOfficieel>
+      </data:CiteertitelInformatie>
+    </data:heeftCiteertitelInformatie>
+    <data:eindverantwoordelijke>/tooi/id/gemeente/gm0590</data:eindverantwoordelijke>
+    <data:maker>/tooi/id/gemeente/gm0590</data:maker>
+    <data:officieleTitel>Programma Klimaatadaptatie gemeente Papendrecht</data:officieleTitel>
+    <data:onderwerpen>
+      <data:onderwerp>/tooi/def/concept/c_9af4b880</data:onderwerp>
+    </data:onderwerpen>
+    <data:rechtsgebieden>
+      <data:rechtsgebied>/tooi/def/concept/c_638d8062</data:rechtsgebied>
+    </data:rechtsgebieden>
+    <data:soortProcedure>/join/id/stop/proceduretype_definitief</data:soortProcedure>
+    <data:soortBestuursorgaan>/tooi/def/thes/kern/c_28ecfd6d</data:soortBestuursorgaan>
+  </data:BesluitMetadata>
+  <lvbbu:Proefversies>
+    <consolidatie:bekendOp xmlns:consolidatie="https://standaarden.overheid.nl/stop/imop/consolidatie/">2025-11-24</consolidatie:bekendOp>
+    <consolidatie:ontvangenOp xmlns:consolidatie="https://standaarden.overheid.nl/stop/imop/consolidatie/">2025-11-24</consolidatie:ontvangenOp>
+    <lvbbu:Proefversie>
+      <consolidatie:gerealiseerdeDoelen xmlns:consolidatie="https://standaarden.overheid.nl/stop/imop/consolidatie/">
+	<consolidatie:doel>/join/id/proces/gm0590/2025/ProgKlimaatadaptatiePPD20252029</consolidatie:doel>
+      </consolidatie:gerealiseerdeDoelen>
+      <consolidatie:instrumentVersie xmlns:consolidatie="https://standaarden.overheid.nl/stop/imop/consolidatie/">/akn/nl/act/gm0590/2025/PrgKlimaatadaptatie/nld@2025-11-20</consolidatie:instrumentVersie>
+    </lvbbu:Proefversie>
+  </lvbbu:Proefversies>
+  <lvbbu:RegelingVersie schemaversie="1.2.0">
+    <data:ExpressionIdentificatie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+      <data:FRBRWork>/akn/nl/act/gm0590/2025/PrgKlimaatadaptatie</data:FRBRWork>
+      <data:FRBRExpression>/akn/nl/act/gm0590/2025/PrgKlimaatadaptatie/nld@2025-11-20</data:FRBRExpression>
+      <data:soortWork>/join/id/stop/work_019</data:soortWork>
+    </data:ExpressionIdentificatie>
+    <data:RegelingVersieMetadata xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+      <data:versienummer>1</data:versienummer>
+    </data:RegelingVersieMetadata>
+    <tekst:RegelingVrijetekst xmlns:tekst="https://standaarden.overheid.nl/stop/imop/tekst/">
+      <tekst:RegelingOpschrift eId="longTitle" wId="longTitle">
+	<tekst:Al>Programma Klimaatadaptatie gemeente Papendrecht</tekst:Al>
+      </tekst:RegelingOpschrift>
+      <tekst:Lichaam eId="body" wId="body">
+	<tekst:Divisie eId="div_1" wId="gm0590_1-0__div_1">
+	  <tekst:Kop>
+	    <tekst:Opschrift>Voorwoord</tekst:Opschrift>
+	  </tekst:Kop>
+	  <tekst:Divisietekst eId="div_1__content_1" wId="gm0590_1-0__div_1__content_1">
+	    <tekst:Inhoud>
+	      <tekst:Al>Wekelijks bereiken ons nieuwsberichten van over de hele wereld over overstromingen, warmterecords, hittegolven en extreme buien door klimaatverandering. Ook in Nederland merken we de gevolgen. De laatste jaren ervaren we steeds langere perioden van droogte en hitte. In 2021 werd Limburg getroffen door overstromingen door hevige buien. Deze buien zijn de laatste tientallen jaren (gelukkig) niet voorgekomen in Papendrecht, wel neemt de kans op een hevige buien toe.</tekst:Al>
+	      <tekst:Al>Papendrecht kent al ondergelopen straten en beperkte schade als gevolg van regenbuien. Ook tijdens perioden van droogte is het nodig om De Gantel op peil te houden met noodpompen. En onze kwetsbare bewoners vragen vaker extra zorg door frequentere perioden van hitte. De effecten van klimaatverandering heeft al gevolgen voor onze gezondheid, voedselvoorziening, leefomgeving en de biodiversiteit. De toename van meer extreem weer is een gegeven. Ook voor onze gemeente.</tekst:Al>
+	      <tekst:Al>In Papendrecht gaan we daarom dóór met het klimaatbestendiger maken van onze leefomgeving. Het programma Klimaatadaptatie 2025-2029 is opgesteld om invulling te geven aan de landelijke doelstellingen en om het thema klimaatadaptatie te borgen in de gemeentelijk organisatie. Deze actualisatie loopt parallel met het opstellen van het Water- en Rioleringsprogramma. Hierdoor zijn zij goed met elkaar verbonden.</tekst:Al>
+	      <tekst:Al>We blikken terug en kijken vooruit. Samen werken we verder aan een groen, mooi, koel en droog Papendrecht. Jij en ik. Samen met alle Papendrechters.</tekst:Al>
+	      <tekst:Kadertekst eId="div_1__content_1__recital_o_1" wId="gm0590_1-0__div_1__content_1__recital_o_1">
+		<tekst:Al>Wat is klimaatbestendigheid voor Papendrecht?</tekst:Al>
+		<tekst:Al>Klimaatverandering zorgt voor vaker extreem weer en hogere gemiddelde temperaturen. Klimaatbestendigheid voor Papendrecht betekent: Het minimaliseren van de negatieve gevolgen van klimaatverandering. Ondanks hevigere buien, meer droogte en hogere temperaturen ondervinden we niet meer overlast en schade dan vorige generaties. We passen onze leefomgeving en ons gedrag aan</tekst:Al>
+	      </tekst:Kadertekst>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	</tekst:Divisie>
+	<tekst:Divisie eId="div_2" wId="gm0590_1-0__div_2">
+	  <tekst:Kop>
+	    <tekst:Nummer>1</tekst:Nummer>
+	    <tekst:Opschrift>| Programma klimaatadaptatie</tekst:Opschrift>
+	  </tekst:Kop>
+	  <tekst:Divisietekst eId="div_2__content_1" wId="gm0590_1-0__div_2__content_1">
+	    <tekst:Kop>
+	      <tekst:Opschrift>Waarom een programma Klimaatadaptatie?</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al>Met de invoering van de Omgevingswet op 1-1-2024 heeft de gemeente de mogelijkheid om een omgevingsprogramma op te stellen. In de Omgevingsvisie legt de gemeente haar ambitie en doelen vast met betrekking tot de fysieke leefomgeving voor de langere termijn. Met een programma kan concreet worden gemaakt hoe de ambitie en doelen uit de Omgevingsvisie zullen worden bereikt. Deze doelen worden in een programma concreet uitgewerkt in maatregelen. Omdat klimaatadaptatie is hierin geen verplicht programma is, maar wel overkoepelend is in de fysieke leefomgeving, is het thema als een vrijwillig (onverplicht) programma uitgewerkt.</tekst:Al>
+	      <tekst:Al>In de Omgevingsvisie (2025) is ten aanzien van klimaatadaptatie het volgende opgenomen:</tekst:Al>
+	      <tekst:Al><tekst:i>Om de doelen in onze omgevingsvisie te halen moeten we rekening houden met het veranderende klimaat. Het klimaat zal in 2050 een stuk extremer zijn. Er zal vaker in korte tijd veel regen vallen en we krijgen te maken met lange perioden van hitte en droogte. Deze veranderingen zorgen ervoor dat de kans op overstromingen, wateroverlast, droogteschade en hittestress toeneemt. Dat levert risico’s op voor onze gezondheid, biodiversiteit, veiligheid en economie. Om deze risico’s te beperken moeten we de fysieke leefomgeving anders inrichten.</tekst:i></tekst:Al>
+	      <tekst:Al><tekst:i>Hierbij hanteren wij vier principes:</tekst:i></tekst:Al>
+	      <tekst:Al><tekst:i>1. We leggen de prioriteit bij de mensen en delen van Papendrecht waar klimaatverandering het meeste risico veroorzaakt.</tekst:i></tekst:Al>
+	      <tekst:Al><tekst:i>2. Door maatregelen te combineren met andere ontwikkelingen in onze gemeente, zorgen we dat we zuinig omgaan met de beschikbare ruimte en middelen.</tekst:i></tekst:Al>
+	      <tekst:Al><tekst:i>3. Maatregelen hoeven niet altijd financiële meerwaarde op te leveren, maar moeten wel altijd bijdragen aan een aantrekkelijk en leefbaar Papendrecht.</tekst:i></tekst:Al>
+	      <tekst:Al><tekst:i>4. Basis op orde: we behouden het huidige groen, water en de riolering.</tekst:i></tekst:Al>
+	      <tekst:Al><tekst:i>Hiervoor zijn overkoepelende prioriteiten opgesteld:</tekst:i></tekst:Al>
+	      <tekst:Lijst eId="div_2__content_1__list_o_1" wId="gm0590_1-0__div_2__content_1__list_o_1" type="ongemarkeerd">
+		<tekst:Li eId="div_2__content_1__list_o_1__item_a" wId="gm0590_1-0__div_2__content_1__list_o_1__item_a">
+		  <tekst:Al><tekst:i>We hanteren de 3/30/300 regel.</tekst:i></tekst:Al>
+		</tekst:Li>
+		<tekst:Li eId="div_2__content_1__list_o_1__item_b" wId="gm0590_1-0__div_2__content_1__list_o_1__item_b">
+		  <tekst:Al><tekst:i>We streven naar zoveel mogelijk groene daken, om water vast te houden en te isoleren.</tekst:i></tekst:Al>
+		</tekst:Li>
+		<tekst:Li eId="div_2__content_1__list_o_1__item_c" wId="gm0590_1-0__div_2__content_1__list_o_1__item_c">
+		  <tekst:Al><tekst:i>Bij vervanging van groen wordt altijd bekeken hoe het groen meer klimaatadaptief kan worden ingericht.</tekst:i></tekst:Al>
+		</tekst:Li>
+	      </tekst:Lijst>
+	      <tekst:Al><tekst:i>Om dit te bereiken stellen we als gemeente prioriteiten, zoals de bewustwording vergroten door voorlichting/educatie, de samenwerking met bewoners, ondernemers, Woonkracht 10 en andere overheden of het zorgen voor een klimaatbestendige inrichting bij ruimtelijke ontwikkelingen.</tekst:i></tekst:Al>
+	      <tekst:Al>Hoe de gemeente verder invulling geeft aan klimaatadaptatie wordt in het Programma Klimaatadaptatie beschreven.</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	  <tekst:Divisietekst eId="div_2__content_2" wId="gm0590_1-0__div_2__content_2">
+	    <tekst:Kop>
+	      <tekst:Opschrift>Programma Klimaatadaptatie</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al>De structurele aanpak voor het omgaan met klimaat binnen de gemeente is verwoord in de <tekst:i>Strategie Klimaatadaptatie Papendrecht (2017)</tekst:i>. Met de Strategie Klimaatadaptatie Papendrecht wordt aan klimaatadaptatie meer structuur, uitbreiding en aandacht gegeven binnen en buiten de organisatie. In het programma Klimaatadaptatie 2025-2029 wordt de Strategie Klimaatadaptatie geëvalueerd. Verder wordt het onderdeel klimaatadaptatie verdiept in thema’s zoals hitte, droogte en gezondheid in de woon- en leefomgeving. Zo blijft het programma Klimaatadaptatie aansluiten bij de huidige kennis en actualiteit. In 2029 vindt een evaluatie en actualisatie van het programma plaats.</tekst:Al>
+	      <tekst:Al>Het programma Klimaatadaptatie is een aanvulling op de Strategie Klimaatadaptatie 2017.</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	  <tekst:Divisietekst eId="div_2__content_3" wId="gm0590_1-0__div_2__content_3">
+	    <tekst:Kop>
+	      <tekst:Opschrift>Participatie programma Klimaatadaptatie</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al>Voor het programma Klimaatadaptatie is een participatietraject doorlopen. Op basis van het vastgestelde <tekst:i>Beleidskader participatie onder Omgevingswet</tekst:i>, is een participatie aanpak opgesteld. In deze aanpak wordt de vorm en de betrokkenheid van de verschillende belanghebbenden vastgesteld. Hieruit komt naar voren dat we bij de participatie ons richten op het informeren en raadplegen van belanghebbenden in Papendrecht.</tekst:Al>
+	      <tekst:Al>In januari 2024 heeft het college de startnotitie voor het actualiseren van de Strategie Klimaatadaptatie vastgesteld. In maart 2024 vond een themabijeenkomst voor het college plaats waarin de inhoud van de Klimaatstrategie, gelijktijdig met het Water- en Rioleringsprogramma, is gepresenteerd. Aansluitend vond een beeldvormende presentatie aan de gemeenteraad plaats. In deze presentaties zijn meerdere denkrichtingen van klimaatadaptieve maatregelen voorgelegd, waarbij de randvoorwaarden zijn opgenomen in het programma Klimaatadaptatie. Specifiek werd hierin de verdere uitrol voor klimaatadaptieve maatregelen benoemd (zowel boven- als ondergrondse wateropvang), het aansluiten bij de richtlijnen van het Rijk, het doorzetten van het stimuleren van groen in tuinen/daken en de informatieve rol bij bewoners bij hitte/droogte.</tekst:Al>
+	      <tekst:Al>Het conceptdocument is voorgelegd en besproken met Woonkracht 10 en het Waterschap. Daarnaast heeft toetsing plaatsgevonden door het expertteam klimaatbestendig bouwen Zuid-Holland. Het concept programma Klimaatadaptatie is vier weken voor bewoners ter inzage gelegd. In deze periode konden bewoners het concept-programma klimaatadaptatie op het gemeentehuis en via de website inzien, en een inspraakreactie indienen.</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	</tekst:Divisie>
+	<tekst:Divisie eId="div_3" wId="gm0590_1-0__div_3">
+	  <tekst:Kop>
+	    <tekst:Nummer>2</tekst:Nummer>
+	    <tekst:Opschrift>| Anno 2025</tekst:Opschrift>
+	  </tekst:Kop>
+	  <tekst:Divisietekst eId="div_3__content_1" wId="gm0590_1-0__div_3__content_1">
+	    <tekst:Kop>
+	      <tekst:Opschrift>Inleiding</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al>Sinds een decennium werkt de gemeente Papendrecht aan het opvangen en tijdelijk vasthouden van regenwater in de leefomgeving. In oktober 2017 is de <tekst:i>Strategie Klimaatadaptatie Papendrecht </tekst:i>door het College en de Gemeenteraad vastgesteld om klimaatadaptatie meer structuur, uitbreiding en aandacht te geven binnen en buiten de organisatie. Onderhavig document borduurt voort op deze strategie.</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	  <tekst:Divisietekst eId="div_3__content_2" wId="gm0590_1-0__div_3__content_2">
+	    <tekst:Kop>
+	      <tekst:Opschrift>Mondiale ontwikkelingen</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al>Het in 2021 verschenen rapport van het IPCC (Intergovernmental Panel on Climate Change) geeft aan dat de gemiddelde temperatuur op aarde verder stijgt. In de zomer van 2023 zijn mondiaal de warmste dagen en warmste maanden sinds 1900 gemeten. De opwarming van de aarde zal zorgen voor meer extreem weer, ook in Nederland.</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	  <tekst:Divisietekst eId="div_3__content_3" wId="gm0590_1-0__div_3__content_3">
+	    <tekst:Kop>
+	      <tekst:Opschrift>Nationale ontwikkelingen</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al>De klimaatscenario’s van het KNMI (oktober 2023) geven een beeld wat we in Nederland kunnen verwachten de komende decennia. De stijging van de zeespiegel gaat door. Ook de winterse neerslag, zomerse extreme buien, droogte en tropische dagen nemen toe. In sommige klimaatscenario’s valt er over het gehele jaar minder neerslag, in andere scenario’s juist meer. De verandering van het Nederlandse klimaat - het weer over een langere periode - zet door. Heftige gebeurtenissen komen vaker voor en de extremen worden extremer. Rekening houden met onzekerheden is een gegeven.</tekst:Al>
+	      <tekst:Al>Met de Deltabeslissing Ruimtelijke adaptatie heeft Nederland in 2015 besloten dat het Rijk, de provincies, gemeenten en waterschappen samen zorgen dat Nederland in 2050 klimaatbestendig en waterrobuust is ingericht. Alle decentrale overheden hebben inmiddels plannen gemaakt en realiseren projecten. In 2022 is geconstateerd dat de plek van klimaatadaptatie in het ruimtelijk domein zwak is en de vrijblijvendheid om tot maatregelen te komen groot. Ook zijn er zorgen over het tempo en of de hoeveelheid maatregelen toereikend zijn. Kabinetsbrieven roepen decentrale overheden op om de ontwikkelplekken nauwkeurig te kiezen (water- en bodemsturend). Ook vragen zij om klimaatadaptieve eisen voor nieuwbouw (Maatlat klimaatadaptief bouwen) en voor bestaand gebied te borgen binnen eigen organisaties.</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	  <tekst:Divisietekst eId="div_3__content_4" wId="gm0590_1-0__div_3__content_4">
+	    <tekst:Kop>
+	      <tekst:Opschrift>Papendrecht</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al>De gemeente heeft de laatste jaren weinig ongemak van klimaatgerelateerde gebeurtenissen ondervonden. Er zijn ook in Papendrecht forse buien gevallen en er zijn perioden van hitte en droogte geweest. Dit gaf in enkele gevallen voor bewoners hinder en ongemak. De schade bleef beperkt. Dit komt door de combinatie van eerder genomen maatregelen, het geluk dat er op Papendrecht geen extreme bui is gevallen en dat de perioden van hitte en droogte beperkt waren.<tekst:br/>Dit kan in de toekomst veranderen. Extreem weer is onvoorspelbaar. Gemiddeld hogere temperaturen hebben (indirect) invloed op onze gezondheid. Daarom wordt er gestaag doorgewerkt aan het klimaatbestendiger maken van de leefomgeving en het bewuster maken van onze inwoners.</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	</tekst:Divisie>
+	<tekst:Divisie eId="div_4" wId="gm0590_1-0__div_4">
+	  <tekst:Kop>
+	    <tekst:Nummer>3</tekst:Nummer>
+	    <tekst:Opschrift>| Wat is er gedaan?</tekst:Opschrift>
+	  </tekst:Kop>
+	  <tekst:Divisietekst eId="div_4__content_1" wId="gm0590_1-0__div_4__content_1">
+	    <tekst:Kop>
+	      <tekst:Opschrift>Inleiding</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al>In dit hoofdstuk kijken we terug naar de afgelopen jaren. Wat is er bereikt en gaat goed? En wat zijn aandachtspunten en uitdagingen voor de komende jaren? De inhoud komt voort uit gesprekken met medewerkers van de gemeente, waterschap Rivierenland en Woonkracht10.</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	  <tekst:Divisietekst eId="div_4__content_2" wId="gm0590_1-0__div_4__content_2">
+	    <tekst:Kop>
+	      <tekst:Opschrift>Wat is er bereikt?</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al><tekst:i>(Her)inrichtingen en klimaatadaptatie</tekst:i></tekst:Al>
+	      <tekst:Al>Bij herinrichting van de openbare ruimte is klimaatadaptatie nu vaak onderdeel van het programma van eisen. Ook bij nieuwbouwprojecten worden wensen meegegeven. Er wordt hemelwater opgevangen onder verhardingen of in groenzones. Ook worden ‘overbodige verhardingen’ omgezet naar beplantingen. Er is aandacht voor (meer) schaduw in de openbare ruimte.</tekst:Al>
+	      <tekst:Al><tekst:i>Woningcorporatie Woonkracht10 en klimaatadaptatie</tekst:i></tekst:Al>
+	      <tekst:Al>Woonkracht10 heeft verschillende klimaatadaptieve projecten in Papendrecht uitgevoerd. Bergingen zijn bijvoorbeeld voorzien van groene daken en regentonnen zijn aangeschaft. Ook wordt bij mutaties geprobeerd een deel van de verharding uit de tuinen te vervangen voor beplantingen. In het duurzaamheidsbeleid en tuinenbeleid is klimaatadaptatie expliciet als thema opgenomen.</tekst:Al>
+	      <tekst:Al><tekst:i>Gemeente en klimaatadaptatie</tekst:i></tekst:Al>
+	      <tekst:Al>Binnen de gemeentelijke organisatie is er steeds meer aandacht voor klimaatadaptatie. In visies, beleid en projecten is dit zichtbaar. In het beleidsdocument voor de openbare ruimte is meer aandacht voor hitte en bomen. Onder andere is de intentie van de ‘3-30-300 regel’ opgenomen. Dit betekent dat vanuit elke woning drie bomen zichtbaar zijn, een wijk dertig procent schaduw heeft en dat binnen driehonderd meter van elke woning een koele aantrekkelijke plek in de openbare ruimte aanwezig is. Dertig procent schaduw realiseren is voor de komende jaren de voornaamste uitdaging, de andere aspecten scoren al bijna voldoende. Ten aanzien van gezondheid en bewegen wordt aandacht gegeven aan schaduwrijke routes. Ook is in 2024 het Papendrechtse hitteplan opgesteld. Hiermee is voor de gemeente en organisaties binnen Papendrecht duidelijk hoe te handelen en wat te doen bij (langdurige) hitte.</tekst:Al>
+	      <tekst:Al><tekst:i>Bewoners en organisaties en klimaatadaptatie</tekst:i></tekst:Al>
+	      <tekst:Al>Op verschillende momenten en manieren zijn bewoners en organisaties geïnformeerd over wat klimaatverandering betekent en hoe ze zelf maatregelen kunnen nemen. Met onder andere scholen, de woningcorporatie en natuur- en milieuverenigingen zijn stenige plekken verandert in groene plekken. Bij herinrichting van de openbare ruimte ontvangen bewoners informatie over klimaatbestendige tuinen en biodiversiteit. Ook wordt lokale klimaatadaptatie verbonden aan andere campagnes, organisaties en thema’s, bijvoorbeeld Nationale Boomplantdag en Week van Ons Water. In bijlage 2 is het document <tekst:i>Natuurinclusief Papendrecht - terugblik en doorkijk</tekst:i> opgenomen. Hierin wordt een overzicht gegeven van de doelen, samenwerkingen en activiteiten van de afgelopen periode en een doorkijk naar de komende jaren.</tekst:Al>
+	      <tekst:Al><tekst:i>Werkregio A5H en klimaatadaptatie</tekst:i></tekst:Al>
+	      <tekst:Al>In de regionale samenwerking ‘werkregio A5H’ (zeven gemeenten en waterschap Rivierenland) is afgelopen jaren een regionale adaptatiestrategie en regionale uitvoeringsagenda opgesteld. Dit betreft voornamelijk activiteiten en projecten die gemeenteoverstijgend zijn. Samen met het waterschap zijn maatregelen genomen om het watersysteem in Papendrecht te verbeteren.</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	  <tekst:Divisietekst eId="div_4__content_3" wId="gm0590_1-0__div_4__content_3">
+	    <tekst:Kop>
+	      <tekst:Opschrift>Aandachtspunten en uitdagingen</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al>Uit de gesprekken zijn ook aandachtspunten en uitdagingen naar voren gekomen. Deze punten zijn waardevol om klimaatadaptatie de komende jaren nog beter te verwezenlijken.</tekst:Al>
+	      <tekst:Al><tekst:i>Standaardisatie klimaatadaptieve maatregelen</tekst:i></tekst:Al>
+	      <tekst:Al>De afgelopen jaren zijn projecten met verschillende typen klimaatadaptieve maatregelen uitgevoerd. Het is onhandig voor beheer en onderhoud dat elke voorziening nét anders is. De wens is om materialen, ontwerpen en technieken die goed werken én goed te beheren zijn op te nemen in de Leidraad Inrichting Openbare Ruimte. Door standaardisatie ontstaat eenduidigheid, ook voor projecten die niet door de gemeente worden voorbereid.</tekst:Al>
+	      <tekst:Al><tekst:i>Monitoring klimaatadaptieve maatregelen</tekst:i></tekst:Al>
+	      <tekst:Al>De wens is om een aantal voorzieningen – die inmiddels al jaren geleden zijn gerealiseerd – te monitoren. Door monitoring wordt duidelijk of de voorzieningen functioneren als bedoeld of dat er aanpassingen nodig zijn.</tekst:Al>
+	      <tekst:Al><tekst:i>Vaststellen hoeveelheid waterberging</tekst:i></tekst:Al>
+	      <tekst:Al>Het is nu op projectniveau onduidelijk hoeveel waterberging er gewenst is en welke boven- of ondergrondse maatregel hier het beste bij past. De wens is om op een uniforme wijze op projectniveau tot een afweging en keuze te komen.</tekst:Al>
+	      <tekst:Al><tekst:i>Informeren en stimuleren bewoners en ondernemers</tekst:i></tekst:Al>
+	      <tekst:Al>Het informeren en stimuleren van inwoners en bedrijven is belangrijk voor bewustwording en het aanzetten tot handelen. Het bereiken van bewoners en bedrijven die van nature aandacht hebben voor natuur en duurzaamheid lukt goed. Dit is echter een beperkte groep. De uitdaging is om ook andere delen van de Papendrechtse samenleving te bereiken -en tot handelen aan te zetten.</tekst:Al>
+	      <tekst:Al><tekst:i>Bomen</tekst:i></tekst:Al>
+	      <tekst:Al>Het aanplanten van bomen is een effectieve klimaatadaptieve maatregel. Toch blijkt het steeds een uitdaging om bomen voldoende (boven- en ondergrondse) ruimte te geven zodat ze goed en gezond volwassen kunnen worden. Kabels en leidingen, parkeervraag, zonnepanelen, etc. stellen het behouden en aanplanten van bomen ter discussie. Zettingen en ophogingen zorgen ervoor dat soms relatief jonge bomen alweer vervangen moeten worden.</tekst:Al>
+	      <tekst:Al>Om de effecten van klimaatverandering te dempen blijken bomen belangrijker dan eerder gedacht. Dit is niet expliciet opgenomen in het Groenbeleidsplan. De wens is om in het Groenbeleidsplan aandacht te geven aan het verkoelende effect van bomen en het realiseren van koele plekken door aanplant van bomen. Het hebben van een compacte (structuur)visie voor bomen is essentieel. Dit laat zien in welke straten en plekken (nieuwe) bomen prioriteit hebben. Ook standaardisatie van groeiplaatsen is een wens.</tekst:Al>
+	      <tekst:Al><tekst:i>Biodiversiteit</tekst:i></tekst:Al>
+	      <tekst:Al>Klimaatverandering heeft meestal negatief effect op de biodiversiteit. Het is slim om maatregelen die bijdragen aan klimaatadaptatie, ook te laten bijdragen aan een verbetering van de biodiversiteit. Ze kennen veelal dezelfde maatregelen, zoals het aanplanten van bomen. Biodiversiteit is een omvangrijk onderwerp. Het is verstandig om hiervoor apart beleid te ontwikkelen.</tekst:Al>
+	      <tekst:Al><tekst:i>Gezond binnen- en buitenklimaat</tekst:i></tekst:Al>
+	      <tekst:Al>De gemeente zet zich in om de openbare ruimte zo klimaatadaptief mogelijk in te richten voor een gezond buitenklimaat. Ook de private ruimte vraagt om een goede inrichting. Hiervoor zijn private eigenaren verantwoordelijk. Voor het binnenklimaat betekent dit de afwezigheid van hitte en vocht (schimmel) in woningen en op werkplekken. Voor de private buitenruimte gaat het om voldoende schaduw en koelte op (school)pleinen en (sport) verenigingen. Hitteprotocollen helpen om bij hitte ons gedrag te veranderen en hiermee onze gezondheid te beschermen.</tekst:Al>
+	      <tekst:Al><tekst:i>Drinkwaterbesparing</tekst:i></tekst:Al>
+	      <tekst:Al>De beschikbaarheid van voldoende drinkwater voor de langere termijn behoeft aandacht. Het huidige drinkwaterverbruik beperken en het nemen van drinkwaterbesparende maatregelen bij nieuwbouw zijn belangrijk. Gemeente Papendrecht volgt de ontwikkelingen op dit vlak en ondersteunt eventueel kansrijke initiatieven.</tekst:Al>
+	      <tekst:Al><tekst:i>Waterveiligheid en overstromingen</tekst:i></tekst:Al>
+	      <tekst:Al>Papendrecht ligt grotendeels onder zeeniveau. Dat maakt ons kwetsbaar voor een overstroming vanuit zee of van de rivieren. Als het mis gaat, staat ons dorp snel en diep onder water. De bescherming van het binnendijkse gebied is de verantwoordelijkheid van Rijkswaterstaat en het waterschap. Bij het bepalen van ambities, onderzoeken en maatregelen is de gemeente Papendrecht één van de partners en levert -waar nodig- inzet. Hierbij gaat het onder andere over waterbewustzijn, bescherming tegen hoogwater, overstromingsbestendig bouwen en evacuatie.</tekst:Al>
+	      <tekst:Al><tekst:i>Klimaatadaptieve nieuwbouw</tekst:i></tekst:Al>
+	      <tekst:Al>Bij nieuwbouw is ingezet om klimaatadaptatie op te nemen in de plannen. Dit is gedaan door initiatiefnemers te stimuleren om maatregelen te nemen. Gedurende de ontwikkeling van projecten sneuvelden de klimaatambities grotendeels. De wens is om klimaatadaptief bouwen te kunnen eisen en dit juridisch te borgen. We willen daadwerkelijk toekomstbestendige nieuwbouw in onze gemeente.</tekst:Al>
+	      <tekst:Al><tekst:i>Eigen medewerkers</tekst:i></tekst:Al>
+	      <tekst:Al>Het is een uitdaging om klimaatadaptatie in de gemeentelijke organisatie de aandacht te geven die nodig is. Het onderwerp raakt meerdere beleidsterreinen en afdelingen. Momenteel is er binnen de organisatie een beperkte coördinatie op het onderwerp, waardoor medewerkers van verschillende beleidsterreinen en afdelingen niet of nauwelijks worden meegenomen.</tekst:Al>
+	      <tekst:Al><tekst:i>Regionale samenwerking</tekst:i></tekst:Al>
+	      <tekst:Al>Er is beperkt uitwisseling van kennis en ervaringen met gemeenten in de regio. Hoe voorkomen we dat we steeds alles zelf uitvinden en ontwikkelen, terwijl organisaties om ons heen ons op bepaalde vlakken kunnen helpen? Kunnen we ook samen met andere gemeenten en het waterschap bepaalde activiteiten, onderzoeken en producten ontwikkelen?</tekst:Al>
+	      <tekst:Kadertekst eId="div_4__content_3__recital_o_1" wId="gm0590_1-0__div_4__content_3__recital_o_1">
+		<tekst:Al><tekst:strong><tekst:u>Minimale Papendrechtse eisen bij herinrichtingen van de openbare ruimte</tekst:u></tekst:strong></tekst:Al>
+		<tekst:Al>Al decennialang werkt de gemeente Papendrecht aan het klimaatbestendiger maken van de openbare ruimte. Bij bijna elk project wordt de robuustheid verder vergroot. Zo groeien we mee met het veranderde klimaat tegen schappelijke inspanningen.</tekst:Al>
+		<tekst:Al><tekst:strong>Hemelwater:</tekst:strong></tekst:Al>
+		<tekst:Lijst eId="div_4__content_3__list_o_1" wId="gm0590_1-0__div_4__content_3__list_o_1" type="ongemarkeerd">
+		  <tekst:Li eId="div_4__content_3__list_o_1__item_a" wId="gm0590_1-0__div_4__content_3__list_o_1__item_a">
+		    <tekst:Al>Minimaal 20mm waterberging realiseren voor alle m2 verhard openbaar oppervlak;</tekst:Al>
+		  </tekst:Li>
+		  <tekst:Li eId="div_4__content_3__list_o_1__item_b" wId="gm0590_1-0__div_4__content_3__list_o_1__item_b">
+		    <tekst:Al>Indien waterberging onder verharding wordt gerealiseerd moet een fundering worden toegepast met minimaal 40% holle ruimte en een constructieve laag van minimaal 20 cm dikte.</tekst:Al>
+		  </tekst:Li>
+		</tekst:Lijst>
+		<tekst:Al><tekst:strong>Droogte:</tekst:strong></tekst:Al>
+		<tekst:Lijst eId="div_4__content_3__list_o_2" wId="gm0590_1-0__div_4__content_3__list_o_2" type="ongemarkeerd">
+		  <tekst:Li eId="div_4__content_3__list_o_2__item_a" wId="gm0590_1-0__div_4__content_3__list_o_2__item_a">
+		    <tekst:Al>Minimaal 20% van het hemelwater wat gedurende het jaar op verhard openbaar oppervlak valt wordt via het groen of de bodem verwerkt.</tekst:Al>
+		  </tekst:Li>
+		</tekst:Lijst>
+		<tekst:Al><tekst:strong>Hitte:</tekst:strong></tekst:Al>
+		<tekst:Lijst eId="div_4__content_3__list_o_3" wId="gm0590_1-0__div_4__content_3__list_o_3" type="ongemarkeerd">
+		  <tekst:Li eId="div_4__content_3__list_o_3__item_a" wId="gm0590_1-0__div_4__content_3__list_o_3__item_a">
+		    <tekst:Al>Bij elke herinrichting neemt de hoeveelheid schaduw in de openbare ruimte met minimaal 3% toe;</tekst:Al>
+		  </tekst:Li>
+		  <tekst:Li eId="div_4__content_3__list_o_3__item_b" wId="gm0590_1-0__div_4__content_3__list_o_3__item_b">
+		    <tekst:Al>Bij toepassing van bomen voor schaduw wordt gerekend met de geschatte kroonoppervlakte na 10 jaar.</tekst:Al>
+		  </tekst:Li>
+		</tekst:Lijst>
+		<tekst:Al><tekst:strong><tekst:u>Minimale Papendrechtse eisen bij nieuwbouw en grootschalige renovatie</tekst:u></tekst:strong></tekst:Al>
+		<tekst:Al>We sluiten aan bij de richtlijn van het Rijk zoals omschreven in de ‘Maatlat groene klimaatadaptieve gebouwde omgeving’. Minimaal hanteren we de normen zoals in dit document zijn opgenomen.</tekst:Al>
+		<tekst:Al><tekst:strong>Hemelwater:</tekst:strong></tekst:Al>
+		<tekst:Lijst eId="div_4__content_3__list_o_4" wId="gm0590_1-0__div_4__content_3__list_o_4" type="ongemarkeerd">
+		  <tekst:Li eId="div_4__content_3__list_o_4__item_a" wId="gm0590_1-0__div_4__content_3__list_o_4__item_a">
+		    <tekst:Al>Minimaal 40 mm waterberging toevoegen. De waterberging is gebaseerd op het gehele plangebied (bebouwd, verhard en onverhard, publieke en private ruimte);</tekst:Al>
+		  </tekst:Li>
+		  <tekst:Li eId="div_4__content_3__list_o_4__item_b" wId="gm0590_1-0__div_4__content_3__list_o_4__item_b">
+		    <tekst:Al>Voldoen aan de eisen voor watercompensatie van het waterschap Rivierenland.</tekst:Al>
+		  </tekst:Li>
+		</tekst:Lijst>
+		<tekst:Al><tekst:strong>Droogte:</tekst:strong></tekst:Al>
+		<tekst:Lijst eId="div_4__content_3__list_o_5" wId="gm0590_1-0__div_4__content_3__list_o_5" type="ongemarkeerd">
+		  <tekst:Li eId="div_4__content_3__list_o_5__item_a" wId="gm0590_1-0__div_4__content_3__list_o_5__item_a">
+		    <tekst:Al>Minimaal 50% van de neerslag die gedurende het jaar valt op het gehele plangebied (bebouwd, verhard en onverhard, publieke en private ruimte) wordt via het groen of de bodem verwerkt. Bij inrichting van particuliere percelen en openbare ruimte wordt rekening gehouden met de bodem- en (grond)waterkenmerken.</tekst:Al>
+		  </tekst:Li>
+		</tekst:Lijst>
+		<tekst:Al><tekst:strong>Hitte:</tekst:strong></tekst:Al>
+		<tekst:Lijst eId="div_4__content_3__list_o_6" wId="gm0590_1-0__div_4__content_3__list_o_6" type="ongemarkeerd">
+		  <tekst:Li eId="div_4__content_3__list_o_6__item_a" wId="gm0590_1-0__div_4__content_3__list_o_6__item_a">
+		    <tekst:Al>Minimaal 30% van de buitenruimte (openbaar en privaat gebied) heeft op 21 juni 12.00 uur schaduw;</tekst:Al>
+		  </tekst:Li>
+		  <tekst:Li eId="div_4__content_3__list_o_6__item_b" wId="gm0590_1-0__div_4__content_3__list_o_6__item_b">
+		    <tekst:Al>Bij toepassing van bomen voor schaduw wordt gerekend met de geschatte kroonoppervlakte na 10 jaar.</tekst:Al>
+		  </tekst:Li>
+		</tekst:Lijst>
+		<tekst:Al><tekst:strong><tekst:u>Voorkeursvolgorden klimaatadaptieve maatregelen</tekst:u></tekst:strong></tekst:Al>
+		<tekst:Al>(voor herinrichting, nieuwbouw en grootschalige renovatie)</tekst:Al>
+		<tekst:Lijst eId="div_4__content_3__list_o_7" wId="gm0590_1-0__div_4__content_3__list_o_7" type="ongemarkeerd">
+		  <tekst:Li eId="div_4__content_3__list_o_7__item_a" wId="gm0590_1-0__div_4__content_3__list_o_7__item_a">
+		    <tekst:Al>Verwerking hemelwater: 1. gebruiken 2. opvangen in beplantingen (dak of maaiveld) 3. infiltreren in de bodem zonder overloop 4. infiltreren in de bodem met overloop naar oppervlaktewater 5. afvoeren naar voorziening onder de verharding 6. direct afvoeren op oppervlaktewater 7. direct afvoeren via riool</tekst:Al>
+		  </tekst:Li>
+		  <tekst:Li eId="div_4__content_3__list_o_7__item_b" wId="gm0590_1-0__div_4__content_3__list_o_7__item_b">
+		    <tekst:Al>Afstroming hemelwater: 1. oppervlakkig 2. via goten en greppels 3. met riolering;</tekst:Al>
+		  </tekst:Li>
+		  <tekst:Li eId="div_4__content_3__list_o_7__item_c" wId="gm0590_1-0__div_4__content_3__list_o_7__item_c">
+		    <tekst:Al>Schaduw: 1. door bomen 2. slagschaduw gebouwen 3. opgaande beplantingen 4. begroeide constructies</tekst:Al>
+		  </tekst:Li>
+		</tekst:Lijst>
+		<tekst:Al>Ook voor de onderwerpen gezondheid, biodiversiteit, bodemdaling/ zetting, welzijn, materiaalgebruik/circulariteit, water- en bodemkwaliteit moeten minimale eisen opgesteld worden om tot een toekomstbestendige inrichting en bebouwing te komen.</tekst:Al>
+	      </tekst:Kadertekst>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	</tekst:Divisie>
+	<tekst:Divisie eId="div_5" wId="gm0590_1-0__div_5">
+	  <tekst:Kop>
+	    <tekst:Nummer>4</tekst:Nummer>
+	    <tekst:Opschrift>| Vooruit kijken</tekst:Opschrift>
+	  </tekst:Kop>
+	  <tekst:Divisietekst eId="div_5__content_1" wId="gm0590_1-0__div_5__content_1">
+	    <tekst:Inhoud>
+	      <tekst:Al>We blijven doorwerken aan een klimaatbestendiger en mooier Papendrecht. Bij de koers voor de komende jaren houden we vast aan de ambitie en strategie zoals beschreven in de Strategie Klimaatadaptatie Papendrecht (2017). We voegen de nieuwste ontwikkelingen toe.</tekst:Al>
+	      <tekst:Al>In de huidige gemeentelijke ambitie en strategie zijn vijf richtingwijzers opgenomen om tot een klimaatbestendig Papendrecht te komen:</tekst:Al>
+	      <tekst:Al><tekst:strong>&gt;&gt; De basis op orde</tekst:strong></tekst:Al>
+	      <tekst:Al>Het behouden en onderhouden van het huidige systeem van riolering, singels, gemalen, groen en maaiveld. Wat er is moet in goede staat blijven, en waar mogelijk iets verbeteren. Het huidige water- en groensysteem zijn de basis voor een klimaatbestendige toekomst. Aandacht voor het maaiveldniveau in het continue zakkende Papendrecht is essentieel.</tekst:Al>
+	      <tekst:Al><tekst:strong>&gt;&gt; Keuzes op basis van prioriteit</tekst:strong></tekst:Al>
+	      <tekst:Al>De impact van het klimaat op bereikbaarheid, leefbaarheid en gezondheid verschilt in verschillende delen van Papendrecht. Door onderscheid te maken wordt focus aangebracht in opgaven. Hiervoor is inzicht in kwetsbaarheid van routes, functies, plekken, groepen en netwerken is nodig.</tekst:Al>
+	      <tekst:Al><tekst:strong>&gt;&gt; Het benutten van ontwikkelingen in de gemeente</tekst:strong></tekst:Al>
+	      <tekst:Al>Reconstructies van de openbare ruimte worden aangegrepen om de openbare ruimte klimaatadaptief in te richten (werk-met- werk maken). Bij renovatie en nieuwbouw van de gebouwde omgeving wordt klimaatadaptatie onderdeel van het programma van eisen. Bewoners en bedrijven hebben toegang tot informatie om hun woning, tuin en bedrijfsruimte klimaatadaptief in te richten.</tekst:Al>
+	      <tekst:Al><tekst:strong>&gt;&gt; Het toevoegen van meer waarde</tekst:strong></tekst:Al>
+	      <tekst:Al>De genomen maatregelen zijn goed voor de leefomgeving. De maatregelen zijn niet persé technisch en financieel optimaal, ze dragen ook bij aan een comfortabele, gezonde, leefbare en aantrekkelijke gemeente.</tekst:Al>
+	      <tekst:Al><tekst:strong>&gt;&gt; Bewuste en gestimuleerde Papendrechters</tekst:strong></tekst:Al>
+	      <tekst:Al>Papendrechtse inwoners en bedrijven zijn zich bewust van de effecten van een veranderend klimaat. Zij weten wat zij zelf kunnen en moeten doen om de effecten te verzachten. De gemeente zorgt dat de Papendrechters hun verantwoordelijkheid kunnen nemen.</tekst:Al>
+	      <tekst:Al>Voor het Programma Klimaatadaptatie 2025-2029 voegen we aan deze vijf richtingwijzers nog vijf uitgangspunten voor de komende planperiode toe:</tekst:Al>
+	      <tekst:Al><tekst:strong>&gt;&gt; De bodem als fundament</tekst:strong></tekst:Al>
+	      <tekst:Al>Een goede en gezonde bodem is de basis voor klimaatadaptatie. Bij (her)inrichting is aandacht voor de bodem en het bodemleven belangrijk. In een goede bodem kan neerslag worden verwerkt en hemelwater langer worden vastgehouden. Een gezonde bodem geeft ons florerende bomen en beplantingen.</tekst:Al>
+	      <tekst:Al><tekst:strong>&gt;&gt; Stimuleren waar kan, verplichten waar moet</tekst:strong></tekst:Al>
+	      <tekst:Al>We hanteren een positieve benadering om tot gewenste veranderingen te komen. Voor bewoners blijft dit het uitgangspunt. Indien blijkt dat de intrinsieke motivatie voor het nemen van klimaatadaptieve maatregelen bij ondernemers of eigenaren met groot grondbezit ontbreekt zijn er eisen om de klimaatadaptieve doelen te behalen.</tekst:Al>
+	      <tekst:Al><tekst:strong>&gt;&gt; Delen van verantwoordelijkheden</tekst:strong></tekst:Al>
+	      <tekst:Al>Regen, hitte en droogte maken geen onderscheid tussen openbare en private ruimte. De gemeente doet wat zij kan in de openbare ruimte. De verantwoordelijkheid om negatieve effecten te voorkomen is óók aan eigenaren (en huurders) van de private ruimte.</tekst:Al>
+	      <tekst:Al><tekst:strong>&gt;&gt; Acceptatie van hinder, overlast en schade</tekst:strong></tekst:Al>
+	      <tekst:Al>Bewustzijn bij inwoners en ondernemers is nodig dat extreem weer kan leiden tot hinder, overlast of schade. Het altijd voorkomen van negatieve gevolgen - zeker op kwetsbare plekken en voor kwetsbare mensen - is niet realistisch. Ook acceptatie is onderdeel van klimaatadaptatie.</tekst:Al>
+	      <tekst:Al><tekst:strong>&gt;&gt; Zorg voor de meest kwetsbare inwoners</tekst:strong></tekst:Al>
+	      <tekst:Al>In Papendrecht hebben we extra aandacht voor diegenen die de meeste impact ervaren van extreem weer en het minste handelingsperspectief hierbij hebben. Voor zowel het binnen- als buitenklimaat.</tekst:Al>
+	      <tekst:Al>Naar aanleiding van de richtingwijzers zetten we de komende periode in op 15 activiteiten.</tekst:Al>
+	      <tekst:Al>1. Klimaatadaptatie bij herinrichtingen<tekst:br/>2. Inzicht meerkosten bij nieuwbouw en renovatie<tekst:br/>3. Leidraad Inrichting Openbare Ruimte<tekst:br/>4. Zeven koele plekken in de openbare ruimte<tekst:br/>5. Opstellen van visie koele routes<tekst:br/>6. Kennisontwikkeling intern en bij partners<tekst:br/>7. Stimuleren van bewoners<tekst:br/>8. Vriesenpolder als regionale spons<tekst:br/>9. Voldoende water en goede waterkwaliteit<tekst:br/>10. Groenblauwe schoolpleinen<tekst:br/>11. Samenwerken met en stimuleren van partners<tekst:br/>12. Verplichten klimaatadaptatie bij nieuwbouw<tekst:br/>13. Monitoring klimaatadaptieve maatregelen<tekst:br/>14. Vijf kwetsbare locaties voor wateroverlast oplossen<tekst:br/>15. Aanpak verminderen klimaatongelijkheid</tekst:Al>
+	      <tekst:Al>In bijlage 2 is een uitvoeringsagenda met de activiteiten opgenomen.</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	</tekst:Divisie>
+	<tekst:Divisie eId="div_6" wId="gm0590_1-0__div_6">
+	  <tekst:Kop>
+	    <tekst:Nummer>5</tekst:Nummer>
+	    <tekst:Opschrift>| Succesvol verder</tekst:Opschrift>
+	  </tekst:Kop>
+	  <tekst:Divisietekst eId="div_6__content_1" wId="gm0590_1-0__div_6__content_1">
+	    <tekst:Kop>
+	      <tekst:Opschrift>Steeds aanpassen</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al>Klimaatadaptatie is een relatief jong onderwerp binnen de gemeentelijk organisatie. De positie en focus van het onderwerp is aan verandering onderhevig. Kennis over effecten, inzichten en aanpak ontwikkelen nog steeds. De laatste jaren wordt bijvoorbeeld meer aandacht gevraagd voor de gezondheidseffecten en de ecologische gevolgen van de effecten van klimaatverandering.</tekst:Al>
+	      <tekst:Al>We weten niet precies wat er op ons afkomt - we werken immers met scenario’s - en dus moeten we ons steeds aanpassen aan de nieuwste inzichten. Dit betekent dat het opstellen van stresstesten, het uitvoeren van risicodialogen en het opstellen van activiteitenplannen een cyclisch karakter kent. Vanuit het Deltaprogramma Ruimtelijke Adaptatie is het advies om een zesjaarlijkse cyclus hiervoor te hanteren.</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	  <tekst:Divisietekst eId="div_6__content_2" wId="gm0590_1-0__div_6__content_2">
+	    <tekst:Kop>
+	      <tekst:Opschrift>Steeds een andere rol</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al>Bij het uitvoeren van de benodigde activiteiten is het van belang dat de gemeente beseft dat zij steeds een andere rol heeft (zie figuur 1). Vanuit de rol van de ‘<tekst:i>rechtmatige overheid’</tekst:i> stelt de gemeente randvoorwaarden en kaders die worden vastgelegd in regels en communiceren deze naar de samenleving.</tekst:Al>
+	      <tekst:Al>Als <tekst:i>‘presterende overheid’</tekst:i> hebben openbare gebouwen en publieke voorzieningen een voorbeeldfunctie: de openbare ruimte, watergangen en gebouwen moeten ook de uitstraling en ambitie hebben die we van de gemeenschap vragen. Van ons mag verwacht worden dat we - in een daarbij behorend tempo - het goede voorbeeld geven. Vanuit dat goede voorbeeld kan enthousiasme ontstaan bij particulieren, stichtingen en ondernemers.</tekst:Al>
+	      <tekst:Al>Als overheid kunnen we het ‘niet meer alleen’. We moeten samenwerken om onze doelen te bereiken. Vanuit de rol <tekst:i>‘samenwerkende overheid’</tekst:i> zorgen we - vanuit een positieve grondhouding - voor een toekomstbestendig en klimaatadaptief Papendrecht. We werken samen met bewoners en ondernemers aan onze ambities. En onderzoeken samen met hen hoe zij kunnen bijdragen aan onze projecten.</tekst:Al>
+	      <tekst:Al>Als <tekst:i>‘responsieve overheid’</tekst:i> anticiperen we op de al bestaande energie van bewoners, bedrijven en organisaties. In gesprek met deze bewegingen onderzoeken we hoe we op basis van wederkerigheid klimaatadaptatie kunnen koppelen aan hun bedoelingen. We ontdekken wat haalbaar is. Dit vraagt om een open houding en nieuwsgierigheid naar de ander.</tekst:Al>
+	      <tekst:Figuur eId="div_6__content_2__img_o_1" wId="gm0590_1-0__div_6__content_2__img_o_1">
+		<tekst:Illustratie naam="01_rollen_gemeente.jpeg" formaat="image/jpeg" breedte="1200" hoogte="900" alt="" dpi="300" uitlijning="start"/>
+	      </tekst:Figuur>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	  <tekst:Divisietekst eId="div_6__content_3" wId="gm0590_1-0__div_6__content_3">
+	    <tekst:Kop>
+	      <tekst:Opschrift>Voldoende capaciteit</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al>Papendrecht klimaatbestendiger maken gaat niet vanzelf. Dit vraagt inzet en tijd van medewerkers. Binnen de gemeentelijke organisatie betekent het dat veel medewerkers ruimte moeten krijgen (en pakken) om zich in te zetten voor klimaatadaptatie. Op basis van de benoemde activiteiten (zie bijlage 1) is er de komende jaren inzet nodig om producten te ontwikkelen, beleid en plannen te maken, communicatie te verzorgen en projecten te realiseren. Voor de planperiode 2025-2029 is een inzet nodig van bijna 6.200 uur. Deze uren zijn deels reguliere werkzaamheden. Het andere deel vraagt om extra capaciteit. In bijlage 1 is een overzicht van de extra uren opgenomen.</tekst:Al>
+	      <tekst:Al>Op vele plekken binnen de organisatie is een koppeling met klimaaadaptatie nodig. Het moet bijvoorbeeld een plek krijgen in de woonvisie, het gemeentelijk rioleringsplan, omgevingsplan, groenbeleid, participatie, structuurvisies en gezondheidsbeleid. Ook bij projecten zoals gebiedsontwikkelingen, nieuwbouw en reconstructie van de openbare ruimte moet klimaatadaptatie een structureel onderdeel zijn van de werkzaamheden. Medewerkers moeten zich beseffen dat klimaatadaptatie óók onderdeel moet zijn van de dagelijkse werkzaamheden.</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	  <tekst:Divisietekst eId="div_6__content_4" wId="gm0590_1-0__div_6__content_4">
+	    <tekst:Kop>
+	      <tekst:Opschrift>Financiën</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al>Naast personele inzet is er ook geld nodig voor de ontwikkeling van producten, onderzoeken, uitvoering van activiteiten en klimaatadaptieve maatregelen.</tekst:Al>
+	      <tekst:Al>Uitvoering van activiteiten en de ontwikkeling van producten wordt gedaan door eigen medewerkers. lndien kennis ontbreekt is er € 100.000 (€ 20.000/jaar) beschikbaar voor inzet van externe partijen. Onderzoekskosten voor hemel- en grondwater zijn separaat gedekt vanuit het Water- en rioleringsprogramma.</tekst:Al>
+	      <tekst:Al>Voor uitvoerende werkzaamheden is geld nodig. Een groot deel van de benodigde financiële middelen is gedekt met investeringsmiddelen opgenomen in het Water- en rioleringsprogramma, Programma Duurzaamheid en Groeninvesteringsplan. Voor deze investeringen wordt verwezen naar bijlage 1, waarbij per activiteit een toelichting wordt gegeven naar de dekking van de kosten. Waar nodig wordt via de P&amp;C cyclus aanvullende middelen aangevraagd. In het Water- en rioleringsprogramma is structureel budget beschikbaar voor het stimuleren van watergerelateerde maatregelen op privaat terrein.</tekst:Al>
+	      <tekst:Al>In bijlage I is de benodigde inzet en financiën per activiteit opgenomen.</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	  <tekst:Divisietekst eId="div_6__content_5" wId="gm0590_1-0__div_6__content_5">
+	    <tekst:Kop>
+	      <tekst:Opschrift>Organisatie en verantwoording</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al>Klimaatadaptatie raakt vele onderdelen van de gemeentelijke organisatie. Dit vraagt om een heldere coördinatie en afstemming. Er wordt voorgesteld om volgens een organisatiestructuur te gaan werken (zie figuur 2).</tekst:Al>
+	      <tekst:Al>Er is een Kernteam klimaat nodig. Dit team bestaat uit medewerkers van verschillende teams en heeft als voorzitter de manager van programma duurzaamheid. Het team komt periodiek bij elkaar en bespreekt de voortgang en activiteiten. Het team zorgt dat het thema klimaatadaptatie binnen de eigen organisatie wordt aangejaagd en uitgevoerd. Ook werken de leden van het team samen met lokale organisaties, zoals Woonkracht10, waterschap Rivierenland en de werkregio A5H. Samen met de regio worden nieuwe producten ontwikkeld en kennis gedeeld.</tekst:Al>
+	      <tekst:Al>Minimaal twee keer per jaar informeert het Team klimaatadaptatie het managementteam van de gemeente Papendrecht over de voortgang van activiteiten. Tijdens deze momenten kunnen ook organisatorische, financiële en inhoudelijke punten geagendeerd worden. Middels de P&amp;C cyclus wordt het College van B&amp;W geïnformeerd over de voortgang van activiteiten. Tijdens een bestuurlijk overleg met het waterschap Rivierenland en Woonkracht10 staat het thema klimaatadaptatie structureel op de agenda.</tekst:Al>
+	      <tekst:Figuur eId="div_6__content_5__img_o_1" wId="gm0590_1-0__div_6__content_5__img_o_1">
+		<tekst:Illustratie naam="02_organisatiestructuur.jpeg" formaat="image/jpeg" breedte="5265" hoogte="4414" alt="" dpi="300" uitlijning="start"/>
+	      </tekst:Figuur>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	</tekst:Divisie>
+      </tekst:Lichaam>
+      <tekst:Bijlage eId="cmp_I" wId="gm0590_1-0__cmp_I">
+	<tekst:Kop>
+	  <tekst:Label>Bijlage</tekst:Label>
+	  <tekst:Nummer>I</tekst:Nummer>
+	  <tekst:Opschrift>Strategie klimaatadaptatie Papendrecht</tekst:Opschrift>
+	</tekst:Kop>
+	<tekst:Divisie eId="cmp_I__div_1" wId="gm0590_1-0__cmp_I__div_1">
+	  <tekst:Kop>
+	    <tekst:Opschrift>Strategie klimaatadaptatie Papendrecht</tekst:Opschrift>
+	  </tekst:Kop>
+	  <tekst:Divisietekst eId="cmp_I__div_1__content_1" wId="gm0590_1-0__cmp_I__div_1__content_1">
+	    <tekst:Inhoud>
+	      <tekst:Al>​<tekst:ExtRef soort="URL" ref="https://olppd.ams3.cdn.digitaloceanspaces.com/bijlage_1_Strategie_klimaatadaptatie_Papendrecht.pdf">Klik hier</tekst:ExtRef> om de PDF van bijlage 1 Strategie klimaatadaptatie Papendrecht te openen.</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	</tekst:Divisie>
+      </tekst:Bijlage>
+      <tekst:Bijlage eId="cmp_II" wId="gm0590_1-0__cmp_II">
+	<tekst:Kop>
+	  <tekst:Label>Bijlage</tekst:Label>
+	  <tekst:Nummer>II</tekst:Nummer>
+	  <tekst:Opschrift>Uitvoeringsagenda 2025 - 2029</tekst:Opschrift>
+	</tekst:Kop>
+	<tekst:Divisie eId="cmp_II__div_1" wId="gm0590_1-0__cmp_II__div_1">
+	  <tekst:Kop>
+	    <tekst:Label>Uitvoeringsagenda</tekst:Label>
+	    <tekst:Nummer>2025</tekst:Nummer>
+	    <tekst:Opschrift>- 2029</tekst:Opschrift>
+	  </tekst:Kop>
+	  <tekst:Divisietekst eId="cmp_II__div_1__content_1" wId="gm0590_1-0__cmp_II__div_1__content_1">
+	    <tekst:Kop>
+	      <tekst:Nummer>15</tekst:Nummer>
+	      <tekst:Opschrift>activiteiten</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al>In de komende periode zetten we in op 15 activiteiten. In deze bijlage is per activiteit de inhoud, inzet, financiën en planning beschreven.</tekst:Al>
+	      <tekst:Al>1. Klimaatadaptatie bij herinrichtingen</tekst:Al>
+	      <tekst:Al>2. Inzicht meerkosten bij nieuwbouw en renovatie</tekst:Al>
+	      <tekst:Al>3. Leidraad Inrichting Openbare Ruimte</tekst:Al>
+	      <tekst:Al>4. Zeven koele plekken in de openbare ruimte</tekst:Al>
+	      <tekst:Al>5. Opstellen van visie koele routes</tekst:Al>
+	      <tekst:Al>6. Kennisontwikkeling intern en bij partners</tekst:Al>
+	      <tekst:Al>7. Stimuleren van bewoners</tekst:Al>
+	      <tekst:Al>8. Vriesenpolder als regionale spons</tekst:Al>
+	      <tekst:Al>9. Voldoende water en goede waterkwaliteit</tekst:Al>
+	      <tekst:Al>10. Groenblauwe schoolpleinen</tekst:Al>
+	      <tekst:Al>11. Samenwerken met en stimuleren van partners</tekst:Al>
+	      <tekst:Al>12. Verplichten klimaatadaptatie bij nieuwbouw</tekst:Al>
+	      <tekst:Al>13. Monitoring klimaatadaptieve maatregelen</tekst:Al>
+	      <tekst:Al>14. Vijf kwetsbare locaties voor wateroverlast oplossen</tekst:Al>
+	      <tekst:Al>15. Aanpak verminderen klimaatongelijkheid</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	  <tekst:Divisietekst eId="cmp_II__div_1__content_2" wId="gm0590_1-0__cmp_II__div_1__content_2">
+	    <tekst:Kop>
+	      <tekst:Nummer>1</tekst:Nummer>
+	      <tekst:Opschrift>| Klimaatadaptatie bij herinrichtingen</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al><tekst:i>Wat?</tekst:i></tekst:Al>
+	      <tekst:Al>Bij elke herinrichting wordt klimaatadaptatie toegevoegd.</tekst:Al>
+	      <tekst:Al><tekst:i>Hoe?</tekst:i></tekst:Al>
+	      <tekst:Al>Door het opstellen van minimale eisen bij herinrichtingen. Zie eisen en voorkeursvolgorde in hoofdstuk 3.</tekst:Al>
+	      <tekst:Al>Interne inzet: Structureel 240 uur/jaar<tekst:br/>Dekking: Water- en rioleringsprogramma en groeninvestering<tekst:br/>Wie: Team Beheer</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	  <tekst:Divisietekst eId="cmp_II__div_1__content_3" wId="gm0590_1-0__cmp_II__div_1__content_3">
+	    <tekst:Kop>
+	      <tekst:Nummer>2</tekst:Nummer>
+	      <tekst:Opschrift>| Inzicht meerkosten bij nieuwbouw en renovatie</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al><tekst:i>Wat?</tekst:i></tekst:Al>
+	      <tekst:Al>Woningcorporatie Woonkracht 10 wil graag bij nieuwbouw en renovatie klimaatadaptieve maatregelen nemen aan de woningen en buitenruimtes. De bijbehorende investeringen zijn onbekend. De gemeente en Woonkracht10 willen samen onderzoeken wat de gemiddelde meerkosten zijn van deze maatregelen om vervolgens een gesprek te voeren over de betaalbaarheid en de ambities.</tekst:Al>
+	      <tekst:Al><tekst:i>Hoe?</tekst:i></tekst:Al>
+	      <tekst:Lijst eId="cmp_II__div_1__content_3__list_o_1" wId="gm0590_1-0__cmp_II__div_1__content_3__list_o_1" type="ongemarkeerd">
+		<tekst:Li eId="cmp_II__div_1__content_3__list_o_1__item_a" wId="gm0590_1-0__cmp_II__div_1__content_3__list_o_1__item_a">
+		  <tekst:Al>Onderzoeksplan opstellen;</tekst:Al>
+		</tekst:Li>
+		<tekst:Li eId="cmp_II__div_1__content_3__list_o_1__item_b" wId="gm0590_1-0__cmp_II__div_1__content_3__list_o_1__item_b">
+		  <tekst:Al>Plan uitvoeren (door derden);</tekst:Al>
+		</tekst:Li>
+		<tekst:Li eId="cmp_II__div_1__content_3__list_o_1__item_c" wId="gm0590_1-0__cmp_II__div_1__content_3__list_o_1__item_c">
+		  <tekst:Al>Resultaten bespreken en conclusies opnemen in de prestatieafspraken.</tekst:Al>
+		</tekst:Li>
+	      </tekst:Lijst>
+	      <tekst:Al>Interne inzet: eenmalig 80 uur<tekst:br/>Kosten: € 10.000<tekst:br/>Wie: GROV<tekst:br/>Partner: Woonkracht 10<tekst:br/>Planning: 2025-2026</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	  <tekst:Divisietekst eId="cmp_II__div_1__content_4" wId="gm0590_1-0__cmp_II__div_1__content_4">
+	    <tekst:Kop>
+	      <tekst:Nummer>3</tekst:Nummer>
+	      <tekst:Opschrift>| Leidraad Inrichting Openbare Ruimte</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al><tekst:i>Wat?</tekst:i></tekst:Al>
+	      <tekst:Al>De Leidraad Inrichting Openbare Ruimte (LIOR) wordt in 2024/2025 geactualiseerd. Het is van belang om dan ook klimaatadaptieve maatregelen toe te voegen.</tekst:Al>
+	      <tekst:Al><tekst:i>Hoe?</tekst:i></tekst:Al>
+	      <tekst:Al>Door het toevoegen van technische ontwerpen van bijvoorbeeld waterbergende groenzones, funderingen en wegen, afstroming van hemelwater over verharding, groene parkeerplaatsen, drempels in drainagesystemen om (grond)water vast te houden. Eventueel onderscheid op basis van gebieds- en stedenbouwkundige kenmerken. De minimale eisen en voorkeursvolgorde voor herinrichtingen (zie hoofdstuk 3) worden in de LIOR verwerkt.</tekst:Al>
+	      <tekst:Al>Interne inzet: Eenmalig 40 uur en structureel 20 uur/jaar<tekst:br/>Wie: Team Beheer<tekst:br/>Planning: 2025</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	  <tekst:Divisietekst eId="cmp_II__div_1__content_5" wId="gm0590_1-0__cmp_II__div_1__content_5">
+	    <tekst:Kop>
+	      <tekst:Nummer>4</tekst:Nummer>
+	      <tekst:Opschrift>| Zeven koele plekken in de openbare ruimte</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al><tekst:i>Wat?</tekst:i></tekst:Al>
+	      <tekst:Al>Het realiseren van 7 koele plekken in de openbare ruimte.</tekst:Al>
+	      <tekst:Al><tekst:i>Hoe?</tekst:i></tekst:Al>
+	      <tekst:Al>Onlangs is een ‘koele plekkenkaart’ opgesteld (zie bijlage 4). Deze kaart laat zien wat de afstand van een woning tot een koele plek is. Hieruit blijkt dat er behoefte is aan het realiseren van 7 koele plekken. Een koele plek is een plek waar het op warme dagen aantrekkelijk is om te verblijven. Kenmerken koele plek: op 300m van de woning, minimaal 200m² groot, groen, 50% beschaduwd met zit- en/of speelgelegenheid. Op sommige plekken is een kleine inspanning nodig om het gewenste resultaat te bereiken, door bijvoorbeeld een aantal bomen te planten, zitgelegenheden of beplantingen te realiseren. Op andere plekken zal meer inzet nodig zijn.</tekst:Al>
+	      <tekst:Al>Interne inzet: Structureel 60 uur/jaar<tekst:br/>Kosten: eenmalig €70.000<tekst:br/>Dekking: 50% groeninvestering en 50% klimaatadaptatie<tekst:br/>Wie: Team Beheer, Team GROV, Team Maatschappelijke Ontwikkeling<tekst:br/>Planning: Uitvoering 2025-2029</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	  <tekst:Divisietekst eId="cmp_II__div_1__content_6" wId="gm0590_1-0__cmp_II__div_1__content_6">
+	    <tekst:Kop>
+	      <tekst:Nummer>5</tekst:Nummer>
+	      <tekst:Opschrift>| Opstellen van visie koele routes</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al><tekst:i>Wat?</tekst:i></tekst:Al>
+	      <tekst:Al>Opstellen van een visie voor koele routes voor wandelaars en fietsers.</tekst:Al>
+	      <tekst:Al><tekst:i>Hoe?</tekst:i></tekst:Al>
+	      <tekst:Al>De gemeente wil bewoners stimuleren om meer te bewegen. Aantrekkelijke routes, ook tijdens warmere dagen, kunnen hierbij helpen. De focus ligt op routes waarvan veel fietsers en wandelaars gebruik maken, bijvoorbeeld naar winkelcentra, openbare gebouwen, scholen en bushaltes. Extra aandacht wordt gegeven aan routes nabij kwetsbare groepen, zoals ouderen, kleine kinderen of mensen met een verstandelijke of psychische aandoening. Ook routes langs aantrekkelijke (bij voorkeur koele) verblijfsplekken krijgen de aandacht. In bijlage 5 is beschaduwde wandelroutekaart opgenomen.</tekst:Al>
+	      <tekst:Lijst eId="cmp_II__div_1__content_6__list_o_1" wId="gm0590_1-0__cmp_II__div_1__content_6__list_o_1" type="ongemarkeerd">
+		<tekst:Li eId="cmp_II__div_1__content_6__list_o_1__item_a" wId="gm0590_1-0__cmp_II__div_1__content_6__list_o_1__item_a">
+		  <tekst:Al>Actualiseren van het groenblauwe netwerk, waarbij de visie op koele wandel- en fietsroutes wordt opgenomen;</tekst:Al>
+		</tekst:Li>
+		<tekst:Li eId="cmp_II__div_1__content_6__list_o_1__item_b" wId="gm0590_1-0__cmp_II__div_1__content_6__list_o_1__item_b">
+		  <tekst:Al>Zorgen dat minimaal 75% van de routes in de schaduw kan worden afgelegd;</tekst:Al>
+		</tekst:Li>
+		<tekst:Li eId="cmp_II__div_1__content_6__list_o_1__item_c" wId="gm0590_1-0__cmp_II__div_1__content_6__list_o_1__item_c">
+		  <tekst:Al>Voorkeursvolgorde voor realiseren van schaduw: door bomen &gt; slagschaduw gebouwen &gt; opgaande beplantingen &gt; begroeide constructies.</tekst:Al>
+		</tekst:Li>
+	      </tekst:Lijst>
+	      <tekst:Al>Interne inzet: Eenmalig 80 uur<tekst:br/>Dekking: onderdeel van actualisatie groenbeleid<tekst:br/>Wie: Team Beheer, Team GROV, Team Maatschappelijke Ontwikkeling<tekst:br/>Planning: 2026</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	  <tekst:Divisietekst eId="cmp_II__div_1__content_7" wId="gm0590_1-0__cmp_II__div_1__content_7">
+	    <tekst:Kop>
+	      <tekst:Nummer>6</tekst:Nummer>
+	      <tekst:Opschrift>| Kennisontwikkeling intern en bij partners</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al><tekst:i>Wat?</tekst:i></tekst:Al>
+	      <tekst:Al>Delen en ophalen van kennis en inzichten is essentieel om binnen de eigen organisatie en met partners te werken aan klimaatadaptatie.</tekst:Al>
+	      <tekst:Al><tekst:i>Hoe?</tekst:i></tekst:Al>
+	      <tekst:Lijst eId="cmp_II__div_1__content_7__list_o_1" wId="gm0590_1-0__cmp_II__div_1__content_7__list_o_1" type="ongemarkeerd">
+		<tekst:Li eId="cmp_II__div_1__content_7__list_o_1__item_a" wId="gm0590_1-0__cmp_II__div_1__content_7__list_o_1__item_a">
+		  <tekst:Al>Onderzoeken wie aan welke kennis behoefte heeft en hoe dit het beste gedeeld kan worden;</tekst:Al>
+		</tekst:Li>
+		<tekst:Li eId="cmp_II__div_1__content_7__list_o_1__item_b" wId="gm0590_1-0__cmp_II__div_1__content_7__list_o_1__item_b">
+		  <tekst:Al>Organiseren van (lunch)bijeenkomsten voor medewerkers en externen;</tekst:Al>
+		</tekst:Li>
+		<tekst:Li eId="cmp_II__div_1__content_7__list_o_1__item_c" wId="gm0590_1-0__cmp_II__div_1__content_7__list_o_1__item_c">
+		  <tekst:Al>Twee keer per jaar het thema klimaatadaptatie agenderen bij regulieren overleggen van alle gemeentelijke afdelingen;</tekst:Al>
+		</tekst:Li>
+		<tekst:Li eId="cmp_II__div_1__content_7__list_o_1__item_d" wId="gm0590_1-0__cmp_II__div_1__content_7__list_o_1__item_d">
+		  <tekst:Al>Opstellen van een nieuwsbrief en/of informatie delen via het intranet.</tekst:Al>
+		</tekst:Li>
+	      </tekst:Lijst>
+	      <tekst:Al>Interne inzet: Structurele inzet 120 uur/jaar en eenmalig 40 uur<tekst:br/>Wie: Kernteam klimaat<tekst:br/>Partner: Lokale partners en regiogemeenten</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	  <tekst:Divisietekst eId="cmp_II__div_1__content_8" wId="gm0590_1-0__cmp_II__div_1__content_8">
+	    <tekst:Kop>
+	      <tekst:Nummer>7</tekst:Nummer>
+	      <tekst:Opschrift>| Stimuleren van bewoners</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al><tekst:i>Wat?</tekst:i></tekst:Al>
+	      <tekst:Al>Meer dan de helft van het oppervlakte van de kern van Papendrecht bestaat uit woningen en tuinen. Als bewoners structureel klimaatadaptieve maatregelen nemen zal dit een positief effect hebben voor heel Papendrecht. Wij stimuleren bewoners om een goede keuze te maken.</tekst:Al>
+	      <tekst:Al><tekst:i>Hoe?</tekst:i></tekst:Al>
+	      <tekst:Al>Wij gaan bewoners niet verplichten om klimaatadaptieve maatregelen te nemen. Wij zetten in op informeren en stimuleren. Regelmatig informeren wij bewoners hoe zij hun leefomgeving klimaatadaptiever kunnen inrichten. Bij herinrichting van de openbare ruimte ontvangen bewoners van de buurt informatie over klimaatbestendige tuinen. Verder ontzorgen we bewoners door hulp aan te bieden bij het maken van tuinontwerpen, het ophalen van tegels en het beschikbaar stellen van materialen en beplantingen. Ook zijn er middelen voor Woonkracht10 beschikbaar.<tekst:br/>Er worden drie pilots opgezet in buurten waar de openbare ruimte opnieuw wordt ingericht. Hier kunnen bewoners hulp krijgen bij het opstellen van een tuinontwerp, afvoeren van tegels, aanbrengen van grond en beplantingen.</tekst:Al>
+	      <tekst:Al>Interne inzet: Structureel 400 uur/jaar<tekst:br/>Kosten: Structureel €20.000/jaar en eenmalig €15.000<tekst:br/>Dekking: €50.000/ jaar vanuit het Water- en rioleringsprogramma<tekst:br/>Wie: Team Beheer, Team Wijkonderhoud, Team Communicatie<tekst:br/>Partners: Natuur-en milieuorganisaties en Woonkracht10<tekst:br/>Planning: uitvoering drie pilots 2025-2029</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	  <tekst:Divisietekst eId="cmp_II__div_1__content_9" wId="gm0590_1-0__cmp_II__div_1__content_9">
+	    <tekst:Kop>
+	      <tekst:Nummer>8</tekst:Nummer>
+	      <tekst:Opschrift>| Vriesenpolder als regionale spons</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al><tekst:i>Wat?</tekst:i></tekst:Al>
+	      <tekst:Al>Papendrecht heeft (een beperkt) buitengebied in het noordoosten van de gemeente. Hier liggen mogelijk kansen voor klimaatadaptatie. Het kan een gebied zijn voor regionale waterberging of waterbuffer voor perioden van droogte. Ook kan het een plek worden waar bewoners verkoeling kunnen vinden tijdens warme dagen.</tekst:Al>
+	      <tekst:Al><tekst:i>Hoe?</tekst:i></tekst:Al>
+	      <tekst:Lijst eId="cmp_II__div_1__content_9__list_o_1" wId="gm0590_1-0__cmp_II__div_1__content_9__list_o_1" type="ongemarkeerd">
+		<tekst:Li eId="cmp_II__div_1__content_9__list_o_1__item_a" wId="gm0590_1-0__cmp_II__div_1__content_9__list_o_1__item_a">
+		  <tekst:Al>Onderzoeken wat de mogelijkheden zijn voor de Vriesenpolder in relatie tot klimaatadaptatie.</tekst:Al>
+		</tekst:Li>
+	      </tekst:Lijst>
+	      <tekst:Al>Interne inzet: Eenmalig 80 uur<tekst:br/>Wie: Team GROV<tekst:br/>Partner: Waterschap Rivierenland<tekst:br/>Planning: 2027</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	  <tekst:Divisietekst eId="cmp_II__div_1__content_10" wId="gm0590_1-0__cmp_II__div_1__content_10">
+	    <tekst:Kop>
+	      <tekst:Nummer>9</tekst:Nummer>
+	      <tekst:Opschrift>| Voldoende water en goede waterkwaliteit</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al><tekst:i>Wat?</tekst:i></tekst:Al>
+	      <tekst:Al>Het snel afvoeren van water en droge voeten houden heeft de afgelopen eeuwen centraal gestaan in het Nederlandse waterbeheer, zo ook in Papendrecht. Door warm weer en lange perioden van droogte verslechtert de waterkwaliteit en daalt het peil in watergangen. Door de hoge watertemperatuur en de groei van kroos neemt het zuurstofgehalte af met dode dieren als gevolg. Het tekort aan voldoende water is een punt van zorg. Papendrecht heeft geen inlaat vanuit de rivier; verversen of doorspoelen van het watersysteem is in droge perioden niet mogelijk. De komende periode zal onderzocht worden hoe in de toekomst wordt gezorgd voor voldoende water en goede waterkwaliteit.</tekst:Al>
+	      <tekst:Al><tekst:i>Hoe?</tekst:i></tekst:Al>
+	      <tekst:Al>De gemeente Papendrecht en het waterschap Rivierenland onderzoeken samen middels verschillende scenario’s wat mogelijkheden zijn. Hierbij kan gedacht worden aan het structureel inlaten van rivierwater, lokale waterbuffers maken of regionale sponsen ontwikkelen. Vervolgens zal een maatregelen- en investeringsprogramma worden opgesteld.</tekst:Al>
+	      <tekst:Al>Interne inzet: Eenmalig 80 uur<tekst:br/>Dekking: Water- en rioleringsprogramma<tekst:br/>Wie: Team Beheer</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	  <tekst:Divisietekst eId="cmp_II__div_1__content_11" wId="gm0590_1-0__cmp_II__div_1__content_11">
+	    <tekst:Kop>
+	      <tekst:Nummer>10</tekst:Nummer>
+	      <tekst:Opschrift>| Groenblauwe schoolpleinen</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al><tekst:i>Wat?</tekst:i></tekst:Al>
+	      <tekst:Al>Papendrecht heeft twaalf basisscholen en vier middelbare scholen. Scholen en schoolpleinen zijn plekken waar kinderen meer dan tien jaar van hun jeugd doorbrengen. Afgelopen jaren is er veel aandacht geweest voor een gezond binnenklimaat bij scholen. Net zo van belang is een gezond buitenklimaat rondom de school. De komende periode zorgen we samen met de scholen die niet op korte termijn worden gerenoveerd of nieuwbouw krijgen dat de schoolpleinen een groenblauwe (en dus gezonde) inrichting krijgen. Dit draagt ook bij aan de concentratie en leerprestaties van de leerlingen. Het gaat om zeven schoolpleinen.</tekst:Al>
+	      <tekst:Al><tekst:i>Hoe?</tekst:i></tekst:Al>
+	      <tekst:Lijst eId="cmp_II__div_1__content_11__list_o_1" wId="gm0590_1-0__cmp_II__div_1__content_11__list_o_1" type="ongemarkeerd">
+		<tekst:Li eId="cmp_II__div_1__content_11__list_o_1__item_a" wId="gm0590_1-0__cmp_II__div_1__content_11__list_o_1__item_a">
+		  <tekst:Al>Minimaal 20% van het schoolplein is onverhard;</tekst:Al>
+		</tekst:Li>
+		<tekst:Li eId="cmp_II__div_1__content_11__list_o_1__item_b" wId="gm0590_1-0__cmp_II__div_1__content_11__list_o_1__item_b">
+		  <tekst:Al>Minimaal 30% van het schoolplein is beschaduwd;</tekst:Al>
+		</tekst:Li>
+		<tekst:Li eId="cmp_II__div_1__content_11__list_o_1__item_c" wId="gm0590_1-0__cmp_II__div_1__content_11__list_o_1__item_c">
+		  <tekst:Al>Minimaal 10% van de buitenmuren van het gebouw heeft gevelbeplanting</tekst:Al>
+		</tekst:Li>
+		<tekst:Li eId="cmp_II__div_1__content_11__list_o_1__item_d" wId="gm0590_1-0__cmp_II__div_1__content_11__list_o_1__item_d">
+		  <tekst:Al>Minimaal 10% van het schoolplein is beplant.</tekst:Al>
+		</tekst:Li>
+	      </tekst:Lijst>
+	      <tekst:Al>Interne inzet: Structureel 36 uur/jaar<tekst:br/>Kosten: € 50.000 (maximaal €15.000 per locatie met 50% cofinanciering door de school)<tekst:br/>Dekking: 50% groeninvestering en 50% klimaatadaptatie<tekst:br/>Wie: Team Beheer, Team Maatschappelijke Ontwikkeling<tekst:br/>Partners: Scholen</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	  <tekst:Divisietekst eId="cmp_II__div_1__content_12" wId="gm0590_1-0__cmp_II__div_1__content_12">
+	    <tekst:Kop>
+	      <tekst:Nummer>11</tekst:Nummer>
+	      <tekst:Opschrift>| Samenwerken met en stimuleren van partners</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al><tekst:i>Wat?</tekst:i></tekst:Al>
+	      <tekst:Al>Samenwerken met andere organisaties is noodzakelijk om Papendrecht klimaatbestendiger te maken. De huidige samenwerkingen zetten we voort en intensiveren we. We gaan - naast de operationele en projectgebonden samenwerkingen - meer inzetten op strategische en tactische samenwerkingen.</tekst:Al>
+	      <tekst:Al><tekst:i>Hoe?</tekst:i></tekst:Al>
+	      <tekst:Lijst eId="cmp_II__div_1__content_12__list_o_1" wId="gm0590_1-0__cmp_II__div_1__content_12__list_o_1" type="ongemarkeerd">
+		<tekst:Li eId="cmp_II__div_1__content_12__list_o_1__item_a" wId="gm0590_1-0__cmp_II__div_1__content_12__list_o_1__item_a">
+		  <tekst:Al>Samenwerken met de regio: Regionaal heeft gemeente Papendrecht moment een rol als deelnemer. Op bepaalde onderwerpen, activiteiten of onderzoeken - met name diegene met een direct belang - wil gemeente Papendrecht een meer proactieve of coördinerende rol innemen;</tekst:Al>
+		</tekst:Li>
+		<tekst:Li eId="cmp_II__div_1__content_12__list_o_1__item_b" wId="gm0590_1-0__cmp_II__div_1__content_12__list_o_1__item_b">
+		  <tekst:Al>Samenwerken met Woonkracht10: Woonkracht10 en de gemeente blijven elkaar helpen met het klimaatadaptief maken van het bezit van de woningcorporatie. Dit betekent stimuleren van het afvoeren van tegels uit tuinen, het klimaatadaptief ontwikkelen van nieuwbouw, herinrichten van tuinen na ophoging van de openbare ruimte en de aanleg van groenblauwe daken. Zij onderzoeken samen waar kansen liggen en wie welke kosten draagt;</tekst:Al>
+		</tekst:Li>
+		<tekst:Li eId="cmp_II__div_1__content_12__list_o_1__item_c" wId="gm0590_1-0__cmp_II__div_1__content_12__list_o_1__item_c">
+		  <tekst:Al>Samenwerken met lokale natuur- en duurzaamheidsorganisaties: deze organisaties werken ook aan een natuurlijker en gezonder Papendrecht. Door samen te werken kunnen we elkaar versterken in het bepalen van doelstellingen en het bereiken van bewoners en ondernemers;</tekst:Al>
+		</tekst:Li>
+		<tekst:Li eId="cmp_II__div_1__content_12__list_o_1__item_d" wId="gm0590_1-0__cmp_II__div_1__content_12__list_o_1__item_d">
+		  <tekst:Al>Samenwerken met ondernemers en bedrijven: de komende periode zal klimaatadaptatie onder de aandacht worden gebracht bij (netwerken van) ondernemers en bedrijven;</tekst:Al>
+		</tekst:Li>
+		<tekst:Li eId="cmp_II__div_1__content_12__list_o_1__item_e" wId="gm0590_1-0__cmp_II__div_1__content_12__list_o_1__item_e">
+		  <tekst:Al>Samenwerken met organisaties: samenwerken met het waterschap Rivierenland, Omgevingsdienst Zuid-Holland Zuid, de GGD en lokale zorgorganisaties is van belang. Zij hebben specifieke kennis op het gebied van klimaatadaptatie en kunnen ons hierbij ondersteunen;</tekst:Al>
+		</tekst:Li>
+		<tekst:Li eId="cmp_II__div_1__content_12__list_o_1__item_f" wId="gm0590_1-0__cmp_II__div_1__content_12__list_o_1__item_f">
+		  <tekst:Al>Samenwerken met omliggende gemeenten: de samenwerking met omliggende gemeenten wordt geïntensiveerd. Enerzijds omdat de opgaven (droogtebestrijding, grootschalige waterberging) grensoverschrijdend zijn en anderszijds om kennis en producten uit te wisselen. Medewerkers van de gemeenten ontmoeten elkaar regelmatig. De gemeente Papendrecht stimuleert om deze overleggen op te zetten en de juiste medewerkers van de gemeenten aan elkaar te koppelen.</tekst:Al>
+		</tekst:Li>
+	      </tekst:Lijst>
+	      <tekst:Al>Interne inzet: Structureel 120 uur/jaar en eenmalig 40 uur<tekst:br/>Wie: Kernteam klimaat<tekst:br/>Partners: Interne collega’s en externen</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	  <tekst:Divisietekst eId="cmp_II__div_1__content_13" wId="gm0590_1-0__cmp_II__div_1__content_13">
+	    <tekst:Kop>
+	      <tekst:Nummer>12</tekst:Nummer>
+	      <tekst:Opschrift>| Verplichten klimaatadaptatie bij nieuwbouw</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al><tekst:i>Wat?</tekst:i></tekst:Al>
+	      <tekst:Al>Vanaf nu bouwen we alleen nog gebouwen en omgevingen in onze gemeente die aan het einde van deze eeuw nog steeds veilig en aantrekkelijk zijn. Elke gebiedsontwikkeling heeft een inspanning binnen de projectgrenzen voor neerslag, droogte en hitte. De ontwikkeling mag geen negatieve effecten hebben op de omgeving op de genoemde thema’s. Indien er in de directe omgeving ook opgaven liggen wordt samenwerking met de initiatiefnemer gezocht om samen zo efficiënt mogelijk invulling te geven aan de opgave. Afwijken van de gegeven eisen is alleen mogelijk met een onderbouwing én akkoord van het gemeentebestuur.</tekst:Al>
+	      <tekst:Al><tekst:i>Hoe?</tekst:i></tekst:Al>
+	      <tekst:Lijst eId="cmp_II__div_1__content_13__list_o_1" wId="gm0590_1-0__cmp_II__div_1__content_13__list_o_1" type="ongemarkeerd">
+		<tekst:Li eId="cmp_II__div_1__content_13__list_o_1__item_a" wId="gm0590_1-0__cmp_II__div_1__content_13__list_o_1__item_a">
+		  <tekst:Al>Opstellen van eisen bij nieuwbouw voor neerslag, droogte en hitte;</tekst:Al>
+		</tekst:Li>
+		<tekst:Li eId="cmp_II__div_1__content_13__list_o_1__item_b" wId="gm0590_1-0__cmp_II__div_1__content_13__list_o_1__item_b">
+		  <tekst:Al>Opstellen van hemelwaterverordening bij nieuwbouw;</tekst:Al>
+		</tekst:Li>
+		<tekst:Li eId="cmp_II__div_1__content_13__list_o_1__item_c" wId="gm0590_1-0__cmp_II__div_1__content_13__list_o_1__item_c">
+		  <tekst:Al>Opnemen van maatregelen voor droogte en hitte in anterieure overeenkomst en/of van toepassing verklaren (geactualiseerde) Leidraad Inrichting Openbare Ruimte.</tekst:Al>
+		</tekst:Li>
+	      </tekst:Lijst>
+	      <tekst:Al>Interne inzet: Structureel 40uur/jaar en eenmalig 80 uur<tekst:br/>Kosten: Eénmalig €5000 (externe ondersteuning)<tekst:br/>Dekking: Programma Duurzaamheid<tekst:br/>Wie: Afdeling GROV<tekst:br/>Planning: 2025</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	  <tekst:Divisietekst eId="cmp_II__div_1__content_14" wId="gm0590_1-0__cmp_II__div_1__content_14">
+	    <tekst:Kop>
+	      <tekst:Nummer>13</tekst:Nummer>
+	      <tekst:Opschrift>| Monitoring klimaatadaptieve maatregelen</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al><tekst:i>Wat?</tekst:i></tekst:Al>
+	      <tekst:Al>We weten niet of de voorzieningen die hemelwater verwerken en droogte voorkomen naar behoren functioneren. Dit vraag om periodieke monitoring. Dit inzicht zorgt ervoor dat we niet alleen ‘op papier’ klimaatbestendig zijn, maar ook werkelijk bestand zijn tegen de gevolgen van extreem weer.</tekst:Al>
+	      <tekst:Al><tekst:i>Hoe?</tekst:i></tekst:Al>
+	      <tekst:Lijst eId="cmp_II__div_1__content_14__list_o_1" wId="gm0590_1-0__cmp_II__div_1__content_14__list_o_1" type="ongemarkeerd">
+		<tekst:Li eId="cmp_II__div_1__content_14__list_o_1__item_a" wId="gm0590_1-0__cmp_II__div_1__content_14__list_o_1__item_a">
+		  <tekst:Al>Opstellen monitoringsplan door externe organisatie;</tekst:Al>
+		</tekst:Li>
+		<tekst:Li eId="cmp_II__div_1__content_14__list_o_1__item_b" wId="gm0590_1-0__cmp_II__div_1__content_14__list_o_1__item_b">
+		  <tekst:Al>Uitvoeren monitoring door externe organisatie.</tekst:Al>
+		</tekst:Li>
+	      </tekst:Lijst>
+	      <tekst:Al>Interne inzet: Structureel 40 uur/jaar en eenmalig 80 uur<tekst:br/>Dekking: Water- en rioleringsprogramma<tekst:br/>Wie: Team Beheer<tekst:br/>Partner: Waterschap Rivierenland<tekst:br/>Planning: 2025-2029</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	  <tekst:Divisietekst eId="cmp_II__div_1__content_15" wId="gm0590_1-0__cmp_II__div_1__content_15">
+	    <tekst:Kop>
+	      <tekst:Nummer>14</tekst:Nummer>
+	      <tekst:Opschrift>| Vijf kwetsbare locaties voor wateroverlast oplossen</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al><tekst:i>Wat?</tekst:i></tekst:Al>
+	      <tekst:Al>In 2020 heeft de gemeente Papendrecht een onderzoek laten uitvoeren naar de kwetsbaarheid van de gemeente bij hevige neerslag (40 mm in één uur en 70 mm in één uur). In 2023 bleken nog 15 plekken kwetsbaar voor hevige neerslag. Zes plekken worden de komende periode tijdens herinrichting van de openbare ruimte opgelost. Vier locaties zijn onderdeel van een nieuwbouwontwikkeling, hier zijn de komende jaren geen maatregelen nodig. De overige 5 kwetsbare plekken worden opgelost.</tekst:Al>
+	      <tekst:Al><tekst:i>Hoe?</tekst:i></tekst:Al>
+	      <tekst:Lijst eId="cmp_II__div_1__content_15__list_o_1" wId="gm0590_1-0__cmp_II__div_1__content_15__list_o_1" type="ongemarkeerd">
+		<tekst:Li eId="cmp_II__div_1__content_15__list_o_1__item_a" wId="gm0590_1-0__cmp_II__div_1__content_15__list_o_1__item_a">
+		  <tekst:Al>De vijf plekken worden als zelfstandige projecten opgepakt en uitgevoerd;</tekst:Al>
+		</tekst:Li>
+		<tekst:Li eId="cmp_II__div_1__content_15__list_o_1__item_b" wId="gm0590_1-0__cmp_II__div_1__content_15__list_o_1__item_b">
+		  <tekst:Al>Een derde van de kosten wordt gefinancierd vanuit de Rijksmiddelen voor versnelling van klimaatadaptatie;</tekst:Al>
+		</tekst:Li>
+		<tekst:Li eId="cmp_II__div_1__content_15__list_o_1__item_c" wId="gm0590_1-0__cmp_II__div_1__content_15__list_o_1__item_c">
+		  <tekst:Al>De projecten worden uiterlijk 2027 opgeleverd.</tekst:Al>
+		</tekst:Li>
+	      </tekst:Lijst>
+	      <tekst:Al>Interne inzet: Structureel 100 uur/jaar<tekst:br/>Dekking: Water- en rioleringsprogramma<tekst:br/>Wie: Team Beheer<tekst:br/>Planning: Uitvoering 2025-2029</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	  <tekst:Divisietekst eId="cmp_II__div_1__content_16" wId="gm0590_1-0__cmp_II__div_1__content_16">
+	    <tekst:Kop>
+	      <tekst:Nummer>15</tekst:Nummer>
+	      <tekst:Opschrift>| Aanpak verminderen klimaatongelijkheid</tekst:Opschrift>
+	    </tekst:Kop>
+	    <tekst:Inhoud>
+	      <tekst:Al><tekst:i>Wat?</tekst:i></tekst:Al>
+	      <tekst:Al>Klimaatverandering en extreem weer heeft fysieke en mentale effecten op onze inwoners. Afhankelijk van persoonlijke kenmerken ervaren bepaalde Papendrechters (veel) meer impact. Ook is het handelingsperspectief om iets aan de effecten te doen ongelijk. Wat je zelf kunt doen is afhankelijk van je fysieke en mentale conditie en je financiële mogelijkheden. Hierbij maakt het ook verschil of je eigenaar of huurder bent van een woning. Om te zorgen dat ongelijkheid binnen onze gemeente (verder) toeneemt is een inventarisatie en plan van aanpak nodig.</tekst:Al>
+	      <tekst:Al><tekst:i>Hoe?</tekst:i></tekst:Al>
+	      <tekst:Al>Klimaatongelijkheid is een nieuw onderwerp. In de aanpak inventariseren we welke mensen en groepen - in welke situaties - de grootste impact ervaren en het minste handelingsperspectief hebben. Daarna bepalen we op welke wijze we deze situaties kunnen aanpakken (bv. extra hulp of investeringen).</tekst:Al>
+	      <tekst:Al>Interne inzet: Eenmalig 80 uur<tekst:br/>Kosten: €10.000<tekst:br/>Wie: Team Maatschappelijke Ontwikkeling<tekst:br/>Partners: Zorgorganisaties en Woonkracht10<tekst:br/>Planning: 2025-2026</tekst:Al>
+	      <tekst:Figuur eId="cmp_II__div_1__content_16__img_o_1" wId="gm0590_1-0__cmp_II__div_1__content_16__img_o_1">
+		<tekst:Illustratie naam="03-bijlage_1_schema01.jpeg" formaat="image/jpeg" breedte="1844" hoogte="532" alt="" dpi="96" uitlijning="start"/>
+		<tekst:Bijschrift locatie="boven">Samenvatting benodigde inzet en financiën per activiteit</tekst:Bijschrift>
+	      </tekst:Figuur>
+	      <tekst:Figuur eId="cmp_II__div_1__content_16__img_o_2" wId="gm0590_1-0__cmp_II__div_1__content_16__img_o_2">
+		<tekst:Illustratie naam="04-bijlage_1_schema02.jpeg" formaat="image/jpeg" breedte="1850" hoogte="565" alt="" dpi="96" uitlijning="start"/>
+	      </tekst:Figuur>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	</tekst:Divisie>
+      </tekst:Bijlage>
+      <tekst:Bijlage eId="cmp_III" wId="gm0590_1-0__cmp_III">
+	<tekst:Kop>
+	  <tekst:Label>Bijlage</tekst:Label>
+	  <tekst:Nummer>III</tekst:Nummer>
+	  <tekst:Opschrift>Natuurinclusief Papendrecht</tekst:Opschrift>
+	</tekst:Kop>
+	<tekst:Divisie eId="cmp_III__div_1" wId="gm0590_1-0__cmp_III__div_1">
+	  <tekst:Kop>
+	    <tekst:Opschrift>Natuurinclusief Papendrecht</tekst:Opschrift>
+	  </tekst:Kop>
+	  <tekst:Divisietekst eId="cmp_III__div_1__content_1" wId="gm0590_1-0__cmp_III__div_1__content_1">
+	    <tekst:Inhoud>
+	      <tekst:Al>​<tekst:ExtRef soort="URL" ref="https://olppd.ams3.cdn.digitaloceanspaces.com/bijlage_2_Natuurinclusief_Papendrecht.pdf">Klik hier</tekst:ExtRef> om de PDF van bijlage 3 Natuurinclusief Papendrecht te openen.</tekst:Al>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	</tekst:Divisie>
+      </tekst:Bijlage>
+      <tekst:Bijlage eId="cmp_IV" wId="gm0590_1-0__cmp_IV">
+	<tekst:Kop>
+	  <tekst:Label>Bijlage</tekst:Label>
+	  <tekst:Nummer>IV</tekst:Nummer>
+	  <tekst:Opschrift>Koele plekkenkaart</tekst:Opschrift>
+	</tekst:Kop>
+	<tekst:Divisie eId="cmp_IV__div_1" wId="gm0590_1-0__cmp_IV__div_1">
+	  <tekst:Kop>
+	    <tekst:Opschrift>Koele plekkenkaart</tekst:Opschrift>
+	  </tekst:Kop>
+	  <tekst:Divisietekst eId="cmp_IV__div_1__content_1" wId="gm0590_1-0__cmp_IV__div_1__content_1">
+	    <tekst:Inhoud>
+	      <tekst:Al>De koele plekkenkaart laat zien wat de afstand van een woning tot een koele plek is. Hieruit blijkt dat er behoefte is aan het realiseren van 7 koele plekken in Papendrecht. Een koele plek is een plek waar het op warme dagen aantrekkelijk is om te verblijven. Kenmerken koele plek: op 300m van de woning, minimaal 200m² groot, groen, 50% beschaduwd met zit- en/of speelgelegenheid.</tekst:Al>
+	      <tekst:Figuur eId="cmp_IV__div_1__content_1__img_o_1" wId="gm0590_1-0__cmp_IV__div_1__content_1__img_o_1">
+		<tekst:Illustratie naam="05_bijlage_3.jpeg" formaat="image/jpeg" breedte="7068" hoogte="5000" alt="" dpi="151" uitlijning="start"/>
+		<tekst:Bijschrift locatie="onder">Afstand woning tot koele plek</tekst:Bijschrift>
+		<tekst:Bron>Omgevingsdienst Zuid-Holland Zuid</tekst:Bron>
+	      </tekst:Figuur>
+	      <tekst:Figuur eId="cmp_IV__div_1__content_1__img_o_2" wId="gm0590_1-0__cmp_IV__div_1__content_1__img_o_2">
+		<tekst:Illustratie naam="06_bijlage_3_legenda.jpeg" formaat="image/jpeg" breedte="930" hoogte="610" alt="" dpi="120" uitlijning="start"/>
+		<tekst:Bijschrift locatie="onder">Legenda koele plekkenkaart</tekst:Bijschrift>
+		<tekst:Bron>Omgevingsdienst Zuid-Holland Zuid</tekst:Bron>
+	      </tekst:Figuur>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	</tekst:Divisie>
+      </tekst:Bijlage>
+      <tekst:Bijlage eId="cmp_V" wId="gm0590_1-0__cmp_V">
+	<tekst:Kop>
+	  <tekst:Label>Bijlage</tekst:Label>
+	  <tekst:Nummer>V</tekst:Nummer>
+	  <tekst:Opschrift>Beschaduwde wandelroutekaart</tekst:Opschrift>
+	</tekst:Kop>
+	<tekst:Divisie eId="cmp_V__div_1" wId="gm0590_1-0__cmp_V__div_1">
+	  <tekst:Kop>
+	    <tekst:Opschrift>Beschaduwde wandelroutekaart</tekst:Opschrift>
+	  </tekst:Kop>
+	  <tekst:Divisietekst eId="cmp_V__div_1__content_1" wId="gm0590_1-0__cmp_V__div_1__content_1">
+	    <tekst:Inhoud>
+	      <tekst:Al>Deze kaart laat zien waar goed beschaduwde wandelroutes zijn en waar deze ontbreken rondom belangrijke voorzieningen. Koele wandelroutes zorgen ervoor dat mensen ook tijdens warm weer kunnen blijven bewegen en voorzieningen kunnen bereiken.</tekst:Al>
+	      <tekst:Figuur eId="cmp_V__div_1__content_1__img_o_1" wId="gm0590_1-0__cmp_V__div_1__content_1__img_o_1">
+		<tekst:Illustratie naam="07_bijlage_4.jpeg" formaat="image/jpeg" breedte="1544" hoogte="1092" alt="" dpi="132" uitlijning="start"/>
+		<tekst:Bijschrift locatie="onder">Beschaduwde wandelroutes</tekst:Bijschrift>
+		<tekst:Bron>Gemeente Papendrecht - eigen inventarisatie (quick scan)</tekst:Bron>
+	      </tekst:Figuur>
+	      <tekst:Figuur eId="cmp_V__div_1__content_1__img_o_2" wId="gm0590_1-0__cmp_V__div_1__content_1__img_o_2">
+		<tekst:Illustratie naam="08_bijlage_4_legenda.jpeg" formaat="image/jpeg" breedte="930" hoogte="610" alt="" dpi="120" uitlijning="start"/>
+		<tekst:Bijschrift locatie="onder">Legenda beschaduwde wandelroutes</tekst:Bijschrift>
+		<tekst:Bron>Gemeente Papendrecht</tekst:Bron>
+	      </tekst:Figuur>
+	    </tekst:Inhoud>
+	  </tekst:Divisietekst>
+	</tekst:Divisie>
+      </tekst:Bijlage>
+    </tekst:RegelingVrijetekst>
+  </lvbbu:RegelingVersie>
+  <lvbbu:AnnotatieBijProefversie>
+    <data:ExpressionIdentificatie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+      <data:FRBRWork>/akn/nl/act/gm0590/2025/PrgKlimaatadaptatie</data:FRBRWork>
+      <data:FRBRExpression>/akn/nl/act/gm0590/2025/PrgKlimaatadaptatie/nld@2025-11-20</data:FRBRExpression>
+      <data:soortWork>/join/id/stop/work_019</data:soortWork>
+    </data:ExpressionIdentificatie>
+    <data:RegelingMetadata xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+      <data:heeftCiteertitelInformatie>
+	<data:CiteertitelInformatie>
+	  <data:citeertitel>Programma Klimaatadaptatie 2025-2029</data:citeertitel>
+	  <data:isOfficieel>true</data:isOfficieel>
+	</data:CiteertitelInformatie>
+      </data:heeftCiteertitelInformatie>
+      <data:eindverantwoordelijke>/tooi/id/gemeente/gm0590</data:eindverantwoordelijke>
+      <data:maker>/tooi/id/gemeente/gm0590</data:maker>
+      <data:officieleTitel>Programma Klimaatadaptatie gemeente Papendrecht</data:officieleTitel>
+      <data:onderwerpen>
+	<data:onderwerp>/tooi/def/concept/c_9af4b880</data:onderwerp>
+      </data:onderwerpen>
+      <data:rechtsgebieden>
+	<data:rechtsgebied>/tooi/def/concept/c_638d8062</data:rechtsgebied>
+      </data:rechtsgebieden>
+      <data:soortRegeling>/join/id/stop/regelingtype_010</data:soortRegeling>
+      <data:soortBestuursorgaan>/tooi/def/thes/kern/c_28ecfd6d</data:soortBestuursorgaan>
+    </data:RegelingMetadata>
+  </lvbbu:AnnotatieBijProefversie>
+</lvbbu:UitleveringProefversieBesluit>
