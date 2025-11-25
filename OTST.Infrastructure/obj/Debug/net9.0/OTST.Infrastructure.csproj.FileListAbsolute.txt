@@ -13,3 +13,4 @@ C:\GIT\OTST_dotNet\OTST.Infrastructure\obj\Debug\net9.0\OTST.Infrastructure.dll
 C:\GIT\OTST_dotNet\OTST.Infrastructure\obj\Debug\net9.0\refint\OTST.Infrastructure.dll
 C:\GIT\OTST_dotNet\OTST.Infrastructure\obj\Debug\net9.0\OTST.Infrastructure.pdb
 C:\GIT\OTST_dotNet\OTST.Infrastructure\obj\Debug\net9.0\ref\OTST.Infrastructure.dll
+C:\GIT\OTST_dotNet\OTST.Infrastructure\obj\Debug\net9.0\OTST.Infrastructure.sourcelink.json

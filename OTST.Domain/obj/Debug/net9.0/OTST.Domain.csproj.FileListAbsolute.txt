@@ -9,3 +9,4 @@ C:\GIT\OTST_dotNet\OTST.Domain\obj\Debug\net9.0\OTST.Domain.dll
 C:\GIT\OTST_dotNet\OTST.Domain\obj\Debug\net9.0\refint\OTST.Domain.dll
 C:\GIT\OTST_dotNet\OTST.Domain\obj\Debug\net9.0\OTST.Domain.pdb
 C:\GIT\OTST_dotNet\OTST.Domain\obj\Debug\net9.0\ref\OTST.Domain.dll
+C:\GIT\OTST_dotNet\OTST.Domain\obj\Debug\net9.0\OTST.Domain.sourcelink.json

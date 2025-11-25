@@ -13,3 +13,4 @@ C:\GIT\OTST_dotNet\OTST.Application\obj\Debug\net9.0\OTST.Application.dll
 C:\GIT\OTST_dotNet\OTST.Application\obj\Debug\net9.0\refint\OTST.Application.dll
 C:\GIT\OTST_dotNet\OTST.Application\obj\Debug\net9.0\OTST.Application.pdb
 C:\GIT\OTST_dotNet\OTST.Application\obj\Debug\net9.0\ref\OTST.Application.dll
+C:\GIT\OTST_dotNet\OTST.Application\obj\Debug\net9.0\OTST.Application.sourcelink.json

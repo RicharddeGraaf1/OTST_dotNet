@@ -101,3 +101,4 @@ C:\GIT\OTST_dotNet\OTST.Domain.Tests\obj\Debug\net9.0\refint\OTST.Domain.Tests.d
 C:\GIT\OTST_dotNet\OTST.Domain.Tests\obj\Debug\net9.0\OTST.Domain.Tests.pdb
 C:\GIT\OTST_dotNet\OTST.Domain.Tests\obj\Debug\net9.0\OTST.Domain.Tests.genruntimeconfig.cache
 C:\GIT\OTST_dotNet\OTST.Domain.Tests\obj\Debug\net9.0\ref\OTST.Domain.Tests.dll
+C:\GIT\OTST_dotNet\OTST.Domain.Tests\obj\Debug\net9.0\OTST.Domain.Tests.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OTST.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+977e4643d4489f26957c8dfc2d3717794e158f26")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae51932771b2d849850da8077c3e69477e1efd76")]
 [assembly: System.Reflection.AssemblyProductAttribute("OTST.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OTST.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
