@@ -7,6 +7,7 @@ using Microsoft.Win32;
 using OTST.Application.Services;
 using OTST.Domain.Models;
 using OTST.Domain.Services;
+using OTST.Domain.Services.Doorlevering;
 using OTST.Domain.Services.Validation;
 
 namespace OTST.App;
@@ -19,6 +20,7 @@ public partial class MainWindow : Window
     private readonly ZipAnalysisFacade _analysisFacade = new();
     private readonly IntrekkingTransformationFacade _intrekkingFacade = new();
     private readonly ValidationTransformationFacade _validationFacade = new();
+    private readonly DoorleveringTransformationFacade _doorleveringFacade = new();
 
     public MainWindow()
     {
@@ -166,10 +168,10 @@ public partial class MainWindow : Window
         _ = ExecuteIntrekkingValidatieAsync();
 
     private void HandleDoorleveren_Click(object sender, RoutedEventArgs e) =>
-        ShowFeatureInProgress("doorlevering");
+        _ = ExecuteDoorleveringAsync(isValidation: false);
 
     private void HandleValidatieDoorleveren_Click(object sender, RoutedEventArgs e) =>
-        ShowFeatureInProgress("validatie doorlevering");
+        _ = ExecuteDoorleveringAsync(isValidation: true);
     private async Task ExecuteValidationAsync(bool isValidation)
     {
         if (!TryGetSourcePath(out var path))
@@ -282,6 +284,47 @@ public partial class MainWindow : Window
         {
             StatusTextBlock.Text = "Intrekking publicatie mislukt.";
             MessageBox.Show(this, ex.Message, "Fout tijdens intrekking publicatie", MessageBoxButton.OK, MessageBoxImage.Error);
+        }
+        finally
+        {
+            SetBusyState(false);
+        }
+    }
+
+    private async Task ExecuteDoorleveringAsync(bool isValidation)
+    {
+        if (!TryGetSourcePath(out var path))
+        {
+            return;
+        }
+
+        var outputPath = DoorleveringTransformationService.GetDefaultOutputPath(path, isValidation);
+        var label = isValidation ? "Validatie doorlevering" : "Doorlevering";
+        SetBusyState(true, $"Bezig met {label.ToLowerInvariant()}...");
+        try
+        {
+            var result = await Task.Run(() =>
+                isValidation
+                    ? _doorleveringFacade.TransformValidatieDoorlevering(path, outputPath)
+                    : _doorleveringFacade.TransformDoorlevering(path, outputPath));
+
+            ResultTextBox.Text = await File.ReadAllTextAsync(result.ReportPath, Encoding.UTF8);
+            StatusTextBlock.Text = $"{label} voltooid. Output: {result.OutputZipPath}";
+
+            MessageBox.Show(this,
+                $"{label} is voltooid.{Environment.NewLine}Output: {result.OutputZipPath}{Environment.NewLine}Rapport: {result.ReportPath}",
+                label,
+                MessageBoxButton.OK,
+                MessageBoxImage.Information);
+        }
+        catch (Exception ex)
+        {
+            StatusTextBlock.Text = $"{label} mislukt.";
+            MessageBox.Show(this,
+                ex.Message,
+                $"Fout tijdens {label.ToLowerInvariant()}",
+                MessageBoxButton.OK,
+                MessageBoxImage.Error);
         }
         finally
         {

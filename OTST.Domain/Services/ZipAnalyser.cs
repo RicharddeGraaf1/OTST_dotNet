@@ -191,13 +191,16 @@ public sealed class ZipAnalyser
         builder.ExtIoRefs.AddRange(extIoRefs);
 
         // Map ExtIoRef eIds back to IO entries using FRBR expression or work
+        // Use GroupBy to handle duplicates - take first occurrence
         var infosByExpression = builder.InformatieObjecten
             .Where(io => !string.IsNullOrWhiteSpace(io.FrbrExpression))
-            .ToDictionary(io => io.FrbrExpression!, StringComparer.OrdinalIgnoreCase);
+            .GroupBy(io => io.FrbrExpression!, StringComparer.OrdinalIgnoreCase)
+            .ToDictionary(g => g.Key, g => g.First(), StringComparer.OrdinalIgnoreCase);
 
         var infosByWork = builder.InformatieObjecten
             .Where(io => !string.IsNullOrWhiteSpace(io.FrbrWork))
-            .ToDictionary(io => io.FrbrWork!, StringComparer.OrdinalIgnoreCase);
+            .GroupBy(io => io.FrbrWork!, StringComparer.OrdinalIgnoreCase)
+            .ToDictionary(g => g.Key, g => g.First(), StringComparer.OrdinalIgnoreCase);
 
         foreach (var extIo in builder.ExtIoRefs)
         {

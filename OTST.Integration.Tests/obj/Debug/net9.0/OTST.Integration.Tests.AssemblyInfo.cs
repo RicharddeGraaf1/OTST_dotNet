@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OTST.Integration.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+977e4643d4489f26957c8dfc2d3717794e158f26")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a80960bc6511ddb9ed6cfa0fbecedbff922df217")]
 [assembly: System.Reflection.AssemblyProductAttribute("OTST.Integration.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OTST.Integration.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

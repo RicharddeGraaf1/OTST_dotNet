@@ -708,3 +708,16 @@ C:\GIT\OTST_dotNet\OTST.Integration.Tests\bin\Debug\net9.0\TestData\validatie\ex
 C:\GIT\OTST_dotNet\OTST.Integration.Tests\bin\Debug\net9.0\TestData\validatie\input\.gitkeep
 C:\GIT\OTST_dotNet\OTST.Integration.Tests\bin\Debug\net9.0\TestData\validatie\input\gm9920_input.zip
 C:\GIT\OTST_dotNet\OTST.Integration.Tests\bin\Debug\net9.0\TestData\validatie\input\pv30_input.zip
+C:\GIT\OTST_dotNet\OTST.Integration.Tests\bin\Debug\net9.0\TestData\doorlevering\expected\gm0518_output\consolidaties.xml
+C:\GIT\OTST_dotNet\OTST.Integration.Tests\bin\Debug\net9.0\TestData\doorlevering\expected\gm0518_output\consolideren-1.pdf
+C:\GIT\OTST_dotNet\OTST.Integration.Tests\bin\Debug\net9.0\TestData\doorlevering\expected\gm0518_output\consolideren-1.xml
+C:\GIT\OTST_dotNet\OTST.Integration.Tests\bin\Debug\net9.0\TestData\doorlevering\expected\gm0518_output\gio-1.gml
+C:\GIT\OTST_dotNet\OTST.Integration.Tests\bin\Debug\net9.0\TestData\doorlevering\expected\gm0518_output\gio-1.xml
+C:\GIT\OTST_dotNet\OTST.Integration.Tests\bin\Debug\net9.0\TestData\doorlevering\expected\gm0518_output\jpg-plaatje-1.jpg
+C:\GIT\OTST_dotNet\OTST.Integration.Tests\bin\Debug\net9.0\TestData\doorlevering\expected\gm0518_output\manifest-ow.xml
+C:\GIT\OTST_dotNet\OTST.Integration.Tests\bin\Debug\net9.0\TestData\doorlevering\expected\gm0518_output\manifest.xml
+C:\GIT\OTST_dotNet\OTST.Integration.Tests\bin\Debug\net9.0\TestData\doorlevering\expected\gm0518_output\owLocaties.xml
+C:\GIT\OTST_dotNet\OTST.Integration.Tests\bin\Debug\net9.0\TestData\doorlevering\expected\gm0518_output\owRegelingsgebied.xml
+C:\GIT\OTST_dotNet\OTST.Integration.Tests\bin\Debug\net9.0\TestData\doorlevering\expected\gm0518_output\owRegeltekst.xml
+C:\GIT\OTST_dotNet\OTST.Integration.Tests\bin\Debug\net9.0\TestData\doorlevering\expected\gm0518_output\proefversiebesluit.xml
+C:\GIT\OTST_dotNet\OTST.Integration.Tests\bin\Debug\net9.0\TestData\doorlevering\input\gm0518_input.zip
